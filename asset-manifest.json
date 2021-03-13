@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/manappallil/static/css/main.7074e3d3.chunk.css",
-    "main.js": "/manappallil/static/js/main.0047e9f6.chunk.js",
-    "main.js.map": "/manappallil/static/js/main.0047e9f6.chunk.js.map",
+    "main.js": "/manappallil/static/js/main.79f3eb53.chunk.js",
+    "main.js.map": "/manappallil/static/js/main.79f3eb53.chunk.js.map",
     "runtime-main.js": "/manappallil/static/js/runtime-main.19a330ec.js",
     "runtime-main.js.map": "/manappallil/static/js/runtime-main.19a330ec.js.map",
-    "static/js/2.fb5ff4bb.chunk.js": "/manappallil/static/js/2.fb5ff4bb.chunk.js",
-    "static/js/2.fb5ff4bb.chunk.js.map": "/manappallil/static/js/2.fb5ff4bb.chunk.js.map",
+    "static/js/2.84efaef9.chunk.js": "/manappallil/static/js/2.84efaef9.chunk.js",
+    "static/js/2.84efaef9.chunk.js.map": "/manappallil/static/js/2.84efaef9.chunk.js.map",
     "index.html": "/manappallil/index.html",
-    "precache-manifest.93544bc922bbba29bf9d314cee94f745.js": "/manappallil/precache-manifest.93544bc922bbba29bf9d314cee94f745.js",
+    "precache-manifest.ef2c28c908e06847cb2e964a7d8f16db.js": "/manappallil/precache-manifest.ef2c28c908e06847cb2e964a7d8f16db.js",
     "service-worker.js": "/manappallil/service-worker.js",
     "static/css/main.7074e3d3.chunk.css.map": "/manappallil/static/css/main.7074e3d3.chunk.css.map",
-    "static/js/2.fb5ff4bb.chunk.js.LICENSE.txt": "/manappallil/static/js/2.fb5ff4bb.chunk.js.LICENSE.txt"
+    "static/js/2.84efaef9.chunk.js.LICENSE.txt": "/manappallil/static/js/2.84efaef9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.19a330ec.js",
-    "static/js/2.fb5ff4bb.chunk.js",
+    "static/js/2.84efaef9.chunk.js",
     "static/css/main.7074e3d3.chunk.css",
-    "static/js/main.0047e9f6.chunk.js"
+    "static/js/main.79f3eb53.chunk.js"
   ]
 }

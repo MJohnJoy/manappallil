@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "67e8d0e4719bacb82b58b56e2644753d",
+    "revision": "2a9e02639353e4154ebc04a10638c0da",
     "url": "/manappallil/index.html"
   },
   {
-    "revision": "a8ba22b5796f4f9ac67d",
+    "revision": "beb645d3b742f119319a",
     "url": "/manappallil/static/css/main.7074e3d3.chunk.css"
   },
   {
-    "revision": "282ccfec6e5b34c805e5",
-    "url": "/manappallil/static/js/2.84efaef9.chunk.js"
+    "revision": "75d61b86dc835dd2c67b",
+    "url": "/manappallil/static/js/2.ecc9fe0c.chunk.js"
   },
   {
     "revision": "dafd2e7db4ed59a9eda4680d0253edff",
-    "url": "/manappallil/static/js/2.84efaef9.chunk.js.LICENSE.txt"
+    "url": "/manappallil/static/js/2.ecc9fe0c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a8ba22b5796f4f9ac67d",
-    "url": "/manappallil/static/js/main.79f3eb53.chunk.js"
+    "revision": "beb645d3b742f119319a",
+    "url": "/manappallil/static/js/main.601323a2.chunk.js"
   },
   {
     "revision": "bb8d9a58f4ff4feae889",

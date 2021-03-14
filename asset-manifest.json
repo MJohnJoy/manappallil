@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/manappallil/static/css/main.b10dc058.chunk.css",
+    "main.css": "/manappallil/static/css/main.51e848cb.chunk.css",
     "main.js": "/manappallil/static/js/main.49161099.chunk.js",
     "main.js.map": "/manappallil/static/js/main.49161099.chunk.js.map",
     "runtime-main.js": "/manappallil/static/js/runtime-main.9ffec325.js",
@@ -9,10 +9,10 @@
     "static/js/2.74334acb.chunk.js": "/manappallil/static/js/2.74334acb.chunk.js",
     "static/js/2.74334acb.chunk.js.map": "/manappallil/static/js/2.74334acb.chunk.js.map",
     "index.html": "/manappallil/index.html",
-    "precache-manifest.b2e04fdbfed0dee254c745ca72138070.js": "/manappallil/precache-manifest.b2e04fdbfed0dee254c745ca72138070.js",
+    "precache-manifest.aae4798a1a5f25fca9856c82b3b354a5.js": "/manappallil/precache-manifest.aae4798a1a5f25fca9856c82b3b354a5.js",
     "service-worker.js": "/manappallil/service-worker.js",
     "static/css/2.5c17b9f1.chunk.css.map": "/manappallil/static/css/2.5c17b9f1.chunk.css.map",
-    "static/css/main.b10dc058.chunk.css.map": "/manappallil/static/css/main.b10dc058.chunk.css.map",
+    "static/css/main.51e848cb.chunk.css.map": "/manappallil/static/css/main.51e848cb.chunk.css.map",
     "static/js/2.74334acb.chunk.js.LICENSE.txt": "/manappallil/static/js/2.74334acb.chunk.js.LICENSE.txt",
     "static/media/App.css": "/manappallil/static/media/family_tree.84e28c68.jpg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.9ffec325.js",
     "static/css/2.5c17b9f1.chunk.css",
     "static/js/2.74334acb.chunk.js",
-    "static/css/main.b10dc058.chunk.css",
+    "static/css/main.51e848cb.chunk.css",
     "static/js/main.49161099.chunk.js"
   ]
 }

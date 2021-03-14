@@ -6,7 +6,7 @@
       "x": 328.4199951171875,
       "y": 250
     },
-    "pathFunc": "diagonal",
+    "pathFunc": "step",
     "renderCustomNodeElement": "svg",
     "collapsible": true,
     "initialDepth": 1,

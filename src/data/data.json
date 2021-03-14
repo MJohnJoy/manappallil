@@ -348,6 +348,20 @@
                       "Date Of Birth": "Unknown"
                     },
                     "children": null
+                  },
+                  {
+                    "name": "M. G. Raju",
+                    "attributes": {
+                      "Date of birth": "Unknown"
+                    },
+                    "children": null
+                  },
+                  {
+                    "name": "M. G. Marykutty",
+                    "attributes": {
+                      "Date of birth": "Unknown"
+                    },
+                    "children": null
                   }
                 ]
               },
@@ -357,7 +371,38 @@
                   "Date Of Birth": "Unknown",
                   "Date Of Death": "1971"
                 },
-                "children": null
+                "children": [
+                  {
+                    "name": "Kunjujamma Samuel",
+                    "attributes": {
+                      "Date of birth": "Unknown",
+                      "Date of death": "Unknown"
+                    },
+                    "children": null
+                  },
+                  {
+                    "name": "Thankamma Samuel",
+                    "attributes": {
+                      "Date of birth": "Unknown",
+                      "Date of death": "Unknown"
+                    },
+                    "children": null
+                  },
+                  {
+                    "name": "Pennamma Samuel",
+                    "attributes": {
+                      "Date of birth": "Unknown"
+                    },
+                    "children": null
+                  },
+                  {
+                    "name": "S. Babu (Baby)",
+                    "attributes": {
+                      "Date of birth": "Unknown"
+                    },
+                    "children": null
+                  }
+                ]
               },
               {
                 "name": "Abraham Tommy",

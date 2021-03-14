@@ -71,6 +71,7 @@ class Viewer extends Component {
           {countNodes(0, Array.isArray(tree) ? tree[0] : tree)} family members.<br/>
           <span style={{color: 'gray'}}>Click a member to expand descendants. Click and drag to navigate.</span>
         </div>
+        <div className="tree-background"/>
         <div ref={tc => (this.treeContainer = tc)} className="tree-container">
           <Tree
             data={tree}

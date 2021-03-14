@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "da8ca55c7ccc1fb1eaf7d11e8068f994",
+    "revision": "f7ee3c55b3198a29ee1de140a950415e",
     "url": "/manappallil/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/manappallil/static/css/2.5c17b9f1.chunk.css"
   },
   {
-    "revision": "0e3ea1ccb59f41c72e3d",
+    "revision": "3114d45b918ee05a1d86",
     "url": "/manappallil/static/css/main.51e848cb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/manappallil/static/js/2.74334acb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0e3ea1ccb59f41c72e3d",
-    "url": "/manappallil/static/js/main.f75356f9.chunk.js"
+    "revision": "3114d45b918ee05a1d86",
+    "url": "/manappallil/static/js/main.3dbb6b96.chunk.js"
   },
   {
     "revision": "740d791f37ae701e1000",

@@ -18,7 +18,7 @@ class App extends Component {
     return (
       <div className="App">
         <div className="demo-container">
-          <button title={'Edit'}
+          <button style={{zIndex: 2}} title={'Edit'}
                   onClick={this.toggleEditMode}/>
           {this.state.editMode &&
           <Editor data={this.state.data}

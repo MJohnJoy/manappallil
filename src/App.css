@@ -23,6 +23,7 @@
   flex-direction: column;
   background: #f7fafc;
   border-right: 1px solid #2d3748;
+  z-index: 2;
 }
 
 .controls-container {
@@ -62,6 +63,7 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  z-index: 0;
 }
 
 .tree-container {
@@ -73,7 +75,7 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  z-index: 2;
+  z-index: 1;
 }
 
 .prop-container {

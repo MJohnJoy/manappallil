@@ -18,13 +18,13 @@
     },
     "nodeSize": {
       "x": 200,
-      "y": 200
+      "y": 125
     },
     "separation": {
-      "siblings": 2,
+      "siblings": 1.25,
       "nonSiblings": 2
     },
-    "enableLegacyTransitions": false,
+    "enableLegacyTransitions": true,
     "transitionDuration": 500,
     "depthFactor": null,
     "styles": {
@@ -47,7 +47,7 @@
         }
       }
     },
-    "shouldCollapseNeighborNodes": false
+    "shouldCollapseNeighborNodes": true
   },
   "tree": {
     "name": "Cheriyan Alintethekkthil Pandalam",

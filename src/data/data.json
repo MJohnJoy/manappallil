@@ -2,31 +2,30 @@
   "configurations": {
     "title": "Manappallil Family Tree",
     "orientation": "vertical",
-    "translate": {
-      "x": 328.4199951171875,
-      "y": 250
-    },
+    "translateX": 328.4199951171875,
+    "translateY": 250,
     "pathFunc": "step",
     "renderCustomNodeElement": "svg",
     "collapsible": true,
+    "shouldCollapseNeighborNodes": false,
     "initialDepth": 1,
+    "depthFactor": null,
     "zoomable": true,
     "zoom": 1,
     "scaleExtent": {
       "min": 0.1,
       "max": 1
     },
-    "nodeSize": {
-      "x": 200,
-      "y": 125
-    },
     "separation": {
       "siblings": 1.25,
       "nonSiblings": 2
     },
+    "nodeSize": {
+      "x": 200,
+      "y": 125
+    },
     "enableLegacyTransitions": true,
     "transitionDuration": 500,
-    "depthFactor": null,
     "styles": {
       "nodes": {
         "node": {
@@ -46,8 +45,7 @@
           }
         }
       }
-    },
-    "shouldCollapseNeighborNodes": true
+    }
   },
   "tree": {
     "name": "Cheriyan Alintethekkthil Pandalam",

@@ -1,4 +1,316 @@
 {
+  "tree": {
+    "name": "Cheriyan Alintethekkathil Pandalam",
+    "attributes": {
+      "Date Of Birth": "Unknown",
+      "Date Of Death": "Unknown"
+    },
+    "children": [
+      {
+        "name": "Gheevarghese Cheriyan",
+        "attributes": {
+          "Date Of Birth": "Unknown",
+          "Date Of Death": "Unknown"
+        },
+        "children": [
+          {
+            "name": "M. G. Cheria",
+            "attributes": {
+              "Date Of Birth": "Unknown",
+              "Date Of Death": "Unknown"
+            },
+            "children": [
+              {
+                "name": "Cheriyan Geevarghese (Unnunni)",
+                "attributes": {
+                  "Date Of Birth": "1887",
+                  "Date Of Death": "11.07.1965"
+                },
+                "children": [
+                  {
+                    "name": "M.V. Mariamma",
+                    "attributes": {
+                      "Date Of Birth": "Unknown",
+                      "Date Of Death": "Unknown"
+                    },
+                    "children": null
+                  },
+                  {
+                    "name": "M.V. Ammini",
+                    "attributes": {
+                      "Date Of Birth": "Unknown",
+                      "Date Of Death": "Unknown"
+                    },
+                    "children": null
+                  },
+                  {
+                    "name": "M.V. John",
+                    "attributes": {
+                      "Date Of Birth": "1923",
+                      "Date Of Death": "23.03.1984"
+                    },
+                    "children": [
+                      {
+                        "name": "Saramma John (Susan)",
+                        "attributes": {
+                          "Date Of Birth": "23.03.1952"
+                        },
+                        "children": null
+                      }
+                    ]
+                  },
+                  {
+                    "name": "M.V. Daniel (Dani)",
+                    "attributes": {
+                      "Date Of Birth": "1926",
+                      "Date Of Death": "16.04.1979"
+                    },
+                    "children": null
+                  },
+                  {
+                    "name": "M.V. Abraham (Kunjumon)",
+                    "attributes": {
+                      "Date Of Birth": "30.04.1929"
+                    },
+                    "children": null
+                  },
+                  {
+                    "name": "M.V. Annamma",
+                    "attributes": {
+                      "Date Of Birth": "23.07.1931",
+                      "Date pf death": "31.05.2010"
+                    },
+                    "children": null
+                  },
+                  {
+                    "name": "M.V. Aachenkunju",
+                    "attributes": {
+                      "Date Of Birth": "1933",
+                      "Date pf death": "1938"
+                    },
+                    "children": null
+                  },
+                  {
+                    "name": "M.V. Issac (Kuttachen)",
+                    "attributes": {
+                      "Date Of Birth": "19.05.1935"
+                    },
+                    "children": null
+                  }
+                ]
+              },
+              {
+                "name": "Annamma Cheria",
+                "attributes": {
+                  "Date Of Birth": "Unknown",
+                  "Date Of Death": "Unknown"
+                },
+                "children": null
+              },
+              {
+                "name": "Mariamma Cheria",
+                "attributes": {
+                  "Date Of Birth": "Unknown",
+                  "Date Of Death": "Unknown"
+                },
+                "children": [
+                  {
+                    "name": "Rachel John",
+                    "attributes": {
+                      "Date Of Birth": "15.08.1954"
+                    },
+                    "children": null
+                  },
+                  {
+                    "name": "Saly John",
+                    "attributes": {
+                      "Date Of Birth": "02.10.1956"
+                    },
+                    "children": null
+                  },
+                  {
+                    "name": "Varghese John (Georgekutty)",
+                    "attributes": {
+                      "Date Of Birth": "unknown"
+                    },
+                    "children": null
+                  },
+                  {
+                    "name": "Issac John (Biju)",
+                    "attributes": {
+                      "Date Of Birth": "25.07.1960"
+                    },
+                    "children": null
+                  },
+                  {
+                    "name": "Siju Elizabeth John",
+                    "attributes": {
+                      "Date Of Birth": "19.04.19730"
+                    },
+                    "children": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "M. G. Tommy",
+            "attributes": {
+              "Date Of Birth": "Unknown",
+              "Date Of Death": "Unknown"
+            },
+            "children": [
+              {
+                "name": "Aleyamma Tommy",
+                "attributes": {
+                  "Date Of Birth": "Unknown",
+                  "Date Of Death": "Unknown"
+                },
+                "children": null
+              },
+              {
+                "name": "Kunjamma Tommy",
+                "attributes": {
+                  "Date Of Birth": "Unknown",
+                  "Date Of Death": "Unknown"
+                },
+                "children": null
+              },
+              {
+                "name": "Aachiamma Tommy",
+                "attributes": {
+                  "Date Of Birth": "Unknown",
+                  "Date Of Death": "Unknown"
+                },
+                "children": null
+              },
+              {
+                "name": "Rachel Tommy",
+                "attributes": {
+                  "Date Of Birth": "Unknown",
+                  "Date Of Death": "Unknown"
+                },
+                "children": null
+              },
+              {
+                "name": "Geevarghese Tommy (Unnunni)",
+                "attributes": {
+                  "Date Of Birth": "Unknown",
+                  "Date Of Death": "Unknown"
+                },
+                "children": null
+              },
+              {
+                "name": "Samuel Tommy (Unnunni)",
+                "attributes": {
+                  "Date Of Birth": "Unknown",
+                  "Date Of Death": "1971"
+                },
+                "children": null
+              },
+              {
+                "name": "Abraham Tommy",
+                "attributes": {
+                  "Date Of Birth": "Unknown",
+                  "Date Of Death": "Unknown"
+                },
+                "children": null
+              }
+            ]
+          },
+          {
+            "name": "M. G. Cheriyan",
+            "attributes": {
+              "Date Of Birth": "Unknown",
+              "Date Of Death": "Unknown"
+            },
+            "children": null
+          },
+          {
+            "name": "M. G. John (Ranger)",
+            "attributes": {
+              "Date Of Birth": "1868",
+              "Date Of Death": "18.09.1941"
+            },
+            "children": null
+          },
+          {
+            "name": "M. G. Easow",
+            "attributes": {
+              "Date Of Birth": "Unknown",
+              "Date Of Death": "Unknown"
+            },
+            "children": null
+          },
+          {
+            "name": "M. G. Geevarghese (Writer)",
+            "attributes": {
+              "Date Of Birth": "1872",
+              "Date Of Death": "13.09.1941"
+            },
+            "children": null
+          },
+          {
+            "name": "M. G. Mathen",
+            "attributes": {
+              "Date Of Birth": "Unknown",
+              "Date Of Death": "30.08.1943"
+            },
+            "children": null
+          },
+          {
+            "name": "Rev. Fr. M. G. Jacob",
+            "attributes": {
+              "Date Of Birth": "1883",
+              "Date Of Death": "19.01.1960"
+            },
+            "children": null
+          },
+          {
+            "name": "M.G. Daniel",
+            "attributes": {
+              "Date Of Birth": "1889",
+              "Date Of Death": "12.06.1965"
+            },
+            "children": null
+          }
+        ]
+      },
+      {
+        "name": "Mathai Cheriyan",
+        "attributes": {
+          "Date Of Birth": "Unknown",
+          "Date Of Death": "Unknown"
+        },
+        "children": [
+          {
+            "name": "Kochumathai",
+            "attributes": {
+              "Date Of Birth": "Unknown",
+              "Date Of Death": "Unknown"
+            },
+            "children": null
+          },
+          {
+            "name": "Aleyamma Mathai",
+            "attributes": {
+              "Date Of Birth": "Unknown",
+              "Date Of Death": "Unknown"
+            },
+            "children": null
+          },
+          {
+            "name": "Mariamma Mathai",
+            "attributes": {
+              "Date Of Birth": "Unknown",
+              "Date Of Death": "Unknown"
+            },
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
   "configurations": {
     "title": "Manappallil Family Tree",
     "orientation": "vertical",
@@ -46,317 +358,5 @@
         }
       }
     }
-  },
-  "tree": {
-    "name": "Cheriyan Alintethekkathil Pandalam",
-    "attributes": {
-      "Date Of Birth": "Unknown",
-      "Date Of Death": "Unknown"
-    },
-    "children": [
-      {
-        "name": "Gheevarghese Cheriyan",
-        "attributes": {
-          "Date Of Birth": "Unknown",
-          "Date Of Death": "Unknown"
-        },
-        "children": [
-          {
-            "name": "M. G. Cheria",
-            "attributes": {
-              "Date Of Birth": "Unknown",
-              "Date Of Death": "Unknown"
-            },
-            "children": [
-              {
-                "name": "Cheriyan Geevarghese (Unnunni)",
-                "attributes": {
-                  "Date Of Birth": "1887",
-                  "Date Of Death": "11.07.1965"
-                },
-                "children": [
-                  {
-                    "name": "M.V. Mariamma",
-                    "attributes": {
-                      "Date Of Birth": "Unknown",
-                      "Date Of Death": "Unknown"
-                    },
-                    "children": []
-                  },
-                  {
-                    "name": "M.V. Ammini",
-                    "attributes": {
-                      "Date Of Birth": "Unknown",
-                      "Date Of Death": "Unknown"
-                    },
-                    "children": []
-                  },
-                  {
-                    "name": "M.V. John",
-                    "attributes": {
-                      "Date Of Birth": "1923",
-                      "Date Of Death": "23.03.1984"
-                    },
-                    "children": [
-                      {
-                        "name": "Saramma John (Susan)",
-                        "attributes": {
-                          "Date Of Birth": "23.03.1952"
-                        },
-                        "children": []
-                      }
-                    ]
-                  },
-                  {
-                    "name": "M.V. Daniel (Dani)",
-                    "attributes": {
-                      "Date Of Birth": "1926",
-                      "Date Of Death": "16.04.1979"
-                    },
-                    "children": []
-                  },
-                  {
-                    "name": "M.V. Abraham (Kunjumon)",
-                    "attributes": {
-                      "Date Of Birth": "30.04.1929"
-                    },
-                    "children": []
-                  },
-                  {
-                    "name": "M.V. Annamma",
-                    "attributes": {
-                      "Date Of Birth": "23.07.1931",
-                      "Date pf death": "31.05.2010"
-                    },
-                    "children": []
-                  },
-                  {
-                    "name": "M.V. Aachenkunju",
-                    "attributes": {
-                      "Date Of Birth": "1933",
-                      "Date pf death": "1938"
-                    },
-                    "children": []
-                  },
-                  {
-                    "name": "M.V. Issac (Kuttachen)",
-                    "attributes": {
-                      "Date Of Birth": "19.05.1935"
-                    },
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "name": "Annamma Cheria",
-                "attributes": {
-                  "Date Of Birth": "Unknown",
-                  "Date Of Death": "Unknown"
-                },
-                "children": []
-              },
-              {
-                "name": "Mariamma Cheria",
-                "attributes": {
-                  "Date Of Birth": "Unknown",
-                  "Date Of Death": "Unknown"
-                },
-                "children": [
-                  {
-                    "name": "Rachel John",
-                    "attributes": {
-                      "Date Of Birth": "15.08.1954"
-                    },
-                    "children": []
-                  },
-                  {
-                    "name": "Saly John",
-                    "attributes": {
-                      "Date Of Birth": "02.10.1956"
-                    },
-                    "children": []
-                  },
-                  {
-                    "name": "Varghese John (Georgekutty)",
-                    "attributes": {
-                      "Date Of Birth": "unknown"
-                    },
-                    "children": []
-                  },
-                  {
-                    "name": "Issac John (Biju)",
-                    "attributes": {
-                      "Date Of Birth": "25.07.1960"
-                    },
-                    "children": []
-                  },
-                  {
-                    "name": "Siju Elizabeth John",
-                    "attributes": {
-                      "Date Of Birth": "19.04.19730"
-                    },
-                    "children": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "name": "M. G. Tommy",
-            "attributes": {
-              "Date Of Birth": "Unknown",
-              "Date Of Death": "Unknown"
-            },
-            "children": [
-              {
-                "name": "Aleyamma Tommy",
-                "attributes": {
-                  "Date Of Birth": "Unknown",
-                  "Date Of Death": "Unknown"
-                },
-                "children": []
-              },
-              {
-                "name": "Kunjamma Tommy",
-                "attributes": {
-                  "Date Of Birth": "Unknown",
-                  "Date Of Death": "Unknown"
-                },
-                "children": []
-              },
-              {
-                "name": "Aachiamma Tommy",
-                "attributes": {
-                  "Date Of Birth": "Unknown",
-                  "Date Of Death": "Unknown"
-                },
-                "children": []
-              },
-              {
-                "name": "Rachel Tommy",
-                "attributes": {
-                  "Date Of Birth": "Unknown",
-                  "Date Of Death": "Unknown"
-                },
-                "children": []
-              },
-              {
-                "name": "Geevarghese Tommy (Unnunni)",
-                "attributes": {
-                  "Date Of Birth": "Unknown",
-                  "Date Of Death": "Unknown"
-                },
-                "children": []
-              },
-              {
-                "name": "Samuel Tommy (Unnunni)",
-                "attributes": {
-                  "Date Of Birth": "Unknown",
-                  "Date Of Death": "1971"
-                },
-                "children": []
-              },
-              {
-                "name": "Abraham Tommy",
-                "attributes": {
-                  "Date Of Birth": "Unknown",
-                  "Date Of Death": "Unknown"
-                },
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "M. G. Cheriyan",
-            "attributes": {
-              "Date Of Birth": "Unknown",
-              "Date Of Death": "Unknown"
-            },
-            "children": []
-          },
-          {
-            "name": "M. G. John (Ranger)",
-            "attributes": {
-              "Date Of Birth": "1868",
-              "Date Of Death": "18.09.1941"
-            },
-            "children": []
-          },
-          {
-            "name": "M. G. Easow",
-            "attributes": {
-              "Date Of Birth": "Unknown",
-              "Date Of Death": "Unknown"
-            },
-            "children": []
-          },
-          {
-            "name": "M. G. Geevarghese (Writer)",
-            "attributes": {
-              "Date Of Birth": "1872",
-              "Date Of Death": "13.09.1941"
-            },
-            "children": []
-          },
-          {
-            "name": "M. G. Mathen",
-            "attributes": {
-              "Date Of Birth": "Unknown",
-              "Date Of Death": "30.08.1943"
-            },
-            "children": []
-          },
-          {
-            "name": "Rev. Fr. M. G. Jacob",
-            "attributes": {
-              "Date Of Birth": "1883",
-              "Date Of Death": "19.01.1960"
-            },
-            "children": []
-          },
-          {
-            "name": "M.G. Daniel",
-            "attributes": {
-              "Date Of Birth": "1889",
-              "Date Of Death": "12.06.1965"
-            },
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Mathai Cheriyan",
-        "attributes": {
-          "Date Of Birth": "Unknown",
-          "Date Of Death": "Unknown"
-        },
-        "children": [
-          {
-            "name": "Kochumathai",
-            "attributes": {
-              "Date Of Birth": "Unknown",
-              "Date Of Death": "Unknown"
-            },
-            "children": []
-          },
-          {
-            "name": "Aleyamma Mathai",
-            "attributes": {
-              "Date Of Birth": "Unknown",
-              "Date Of Death": "Unknown"
-            },
-            "children": []
-          },
-          {
-            "name": "Mariamma Mathai",
-            "attributes": {
-              "Date Of Birth": "Unknown",
-              "Date Of Death": "Unknown"
-            },
-            "children": []
-          }
-        ]
-      }
-    ]
   }
 }

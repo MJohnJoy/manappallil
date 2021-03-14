@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/manappallil/static/css/main.7074e3d3.chunk.css",
-    "main.js": "/manappallil/static/js/main.678a8025.chunk.js",
-    "main.js.map": "/manappallil/static/js/main.678a8025.chunk.js.map",
+    "main.js": "/manappallil/static/js/main.25399718.chunk.js",
+    "main.js.map": "/manappallil/static/js/main.25399718.chunk.js.map",
     "runtime-main.js": "/manappallil/static/js/runtime-main.9ffec325.js",
     "runtime-main.js.map": "/manappallil/static/js/runtime-main.9ffec325.js.map",
     "static/js/2.1de72470.chunk.js": "/manappallil/static/js/2.1de72470.chunk.js",
     "static/js/2.1de72470.chunk.js.map": "/manappallil/static/js/2.1de72470.chunk.js.map",
     "index.html": "/manappallil/index.html",
-    "precache-manifest.c0455f71f49bb8f206ffd062b9458b24.js": "/manappallil/precache-manifest.c0455f71f49bb8f206ffd062b9458b24.js",
+    "precache-manifest.d9d50a0c142a4d05d69150495e0fde90.js": "/manappallil/precache-manifest.d9d50a0c142a4d05d69150495e0fde90.js",
     "service-worker.js": "/manappallil/service-worker.js",
     "static/css/main.7074e3d3.chunk.css.map": "/manappallil/static/css/main.7074e3d3.chunk.css.map",
     "static/js/2.1de72470.chunk.js.LICENSE.txt": "/manappallil/static/js/2.1de72470.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9ffec325.js",
     "static/js/2.1de72470.chunk.js",
     "static/css/main.7074e3d3.chunk.css",
-    "static/js/main.678a8025.chunk.js"
+    "static/js/main.25399718.chunk.js"
   ]
 }

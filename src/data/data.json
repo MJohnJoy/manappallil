@@ -864,7 +864,15 @@
                       "Date of Birth": "Unknown",
                       "Date of death": "Unknown"
                     },
-                    "children": null
+                    "children": [
+                      {
+                        "name": "George Mohan",
+                        "attributes": {
+                          "Date of Birth": "22.12.1952"
+                        },
+                        "children": null
+                      }
+                    ]
                   }
                 ]
               }

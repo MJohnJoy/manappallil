@@ -219,15 +219,7 @@
                         "attributes": {
                           "Date Of Birth": "07.07.1968"
                         },
-                        "children": [
-                          {
-                            "name": "Rachel Maria Cheriyan",
-                            "attributes": {
-                              "Date Of Birth": "11.07.2003"
-                            },
-                            "children": null
-                          }
-                        ]
+                        "children": null
                       }
                     ]
                   }
@@ -410,7 +402,15 @@
                   "Date Of Birth": "Unknown",
                   "Date Of Death": "Unknown"
                 },
-                "children": null
+                "children": [
+                  {
+                    "name": "T. Lillikutty",
+                    "attributes": {
+                      "Date Of Birth": "Unknown"
+                    },
+                    "children": null
+                  }
+                ]
               }
             ]
           },

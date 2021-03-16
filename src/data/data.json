@@ -1223,6 +1223,73 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "name": "M. V. Daniel (Kunjumon)",
+                    "attributes": {
+                      "Date of birth": "31.01.1937"
+                    },
+                    "children": [
+                      {
+                        "name": "Bejoy Daniel (joemon)",
+                        "attributes": {
+                          "Date of birth": "05.05.1973"
+                        },
+                        "children": [
+                          {
+                            "name": "Abel M. Bejoy",
+                            "attributes": {
+                              "Date of birth": "01.07.2003"
+                            },
+                            "children": null
+                          },
+                          {
+                            "name": "Angel M. Bejoy (Sneha)",
+                            "attributes": {
+                              "Date of birth": "Unknown"
+                            },
+                            "children": null
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Vinod Daniel (johnson)",
+                        "attributes": {
+                          "Date of birth": "07.10.1975"
+                        },
+                        "children": [
+                          {
+                            "name": "Jeffin Vinod (Appu)",
+                            "attributes": {
+                              "Date of birth": "22.06.2006"
+                            },
+                            "children": null
+                          },
+                          {
+                            "name": "Jerril Vinod (Aachu)",
+                            "attributes": {
+                              "Date of birth": "04.06.2010"
+                            },
+                            "children": null
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Binu Daniel (Joji)",
+                        "attributes": {
+                          "Date of birth": "01.01.1982"
+                        },
+                        "children": [
+                          {
+                            "name": "Olivia Binu",
+                            "attributes": {
+                              "Date of birth": "01.10.2008"
+                            },
+                            "children": null
+                          }
+                        ]
+                      }
+                    ]
                   }
                 ]
               }

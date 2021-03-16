@@ -1681,6 +1681,103 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "name": "M. C. Daniel",
+                    "attributes": {
+                      "Date of birth": "1944"
+                    },
+                    "children": [
+                      {
+                        "name": "Rubi Daniel",
+                        "attributes": {
+                          "Date of birth": "1972"
+                        },
+                        "children": null
+                      },
+                      {
+                        "name": "Betty Daniel",
+                        "attributes": {
+                          "Date of birth": "1974"
+                        },
+                        "children": null
+                      },
+                      {
+                        "name": "Jacob Daniel (Jaimon)",
+                        "attributes": {
+                          "Date of birth": "1979"
+                        },
+                        "children": null
+                      }
+                    ]
+                  },
+                  {
+                    "name": "M.C. Cheriyan (Georgekutty)",
+                    "attributes": {
+                      "Date of birth": "1947",
+                      "Date of death": "14.10.1978"
+                    },
+                    "children": [
+                      {
+                        "name": "Binu Cheriyan",
+                        "attributes": {
+                          "Date of birth": "1974"
+                        },
+                        "children": null
+                      },
+                      {
+                        "name": "Sunitha Cheriyan",
+                        "attributes": {
+                          "Date of birth": "1978"
+                        },
+                        "children": null
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Eapen Chacko (Appachi)",
+                    "attributes": {
+                      "Date of birth": "1951",
+                      "Date of death": "05.05.2020"
+                    },
+                    "children": [
+                      {
+                        "name": "Jacob Eapen (Sibin)",
+                        "attributes": {
+                          "Date of birth": "1981"
+                        },
+                        "children": null
+                      },
+                      {
+                        "name": "Chinnu Anna Eapen",
+                        "attributes": {
+                          "Date of birth": "1986"
+                        },
+                        "children": null
+                      }
+                    ]
+                  },
+                  {
+                    "name": "M.C. Mathew (Babu)",
+                    "attributes": {
+                      "Date of birth": "1986"
+                    },
+                    "children": [
+                      {
+                        "name": "Jerin Anna Mathew",
+                        "attributes": {
+                          "Date of birth": "1990"
+                        },
+                        "children": null
+                      },
+                      {
+                        "name": "Merin Susan Mathew",
+                        "attributes": {
+                          "Date of birth": "1994"
+                        },
+                        "children": null
+                      }
+                    ]
                   }
                 ]
               }

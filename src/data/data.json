@@ -2054,8 +2054,8 @@
     "pathFunc": "step",
     "renderCustomNodeElement": "svg",
     "collapsible": true,
-    "shouldCollapseNeighborNodes": false,
-    "initialDepth": 1,
+    "shouldCollapseNeighborNodes": true,
+    "initialDepth": 3,
     "depthFactor": null,
     "zoomable": true,
     "zoom": 1,
@@ -2064,8 +2064,8 @@
       "max": 1
     },
     "separation": {
-      "siblings": 1.25,
-      "nonSiblings": 2
+      "siblings": 1,
+      "nonSiblings": 1
     },
     "nodeSize": {
       "x": 200,

@@ -1902,38 +1902,23 @@
                     "attributes": {
                       "Date of birth": "17.09.1931"
                     },
-                    "children": null
-                  },
-                  {
-                    "name": "George Thomas (Victor)",
-                    "attributes": {
-                      "Date of birth": "01.11.1933"
-                    },
                     "children": [
                       {
-                        "name": "Deepak George Thomas",
-                        "attributes": {
-                          "Date of birth": "24.02.1965"
-                        },
-                        "children": [
-                          {
-                            "name": "Arwen Maria Susan Thomas",
-                            "attributes": {
-                              "Date of birth": "03.01.2014"
-                            },
-                            "children": null
+                        
                           }
                         ]
                       }
                     ]
                   },
                   {
-                    "name": "Elizabeth Thomas (Molly)",
-                    "attributes": {
-                      "Date of birth": "21.09.1934"
-                    },
-                    "children": null
-                  }
+                    "
+                      {
+                        
+                      }
+                    ]
+                  },
+                  {
+                    
                 ]
               }
             ]

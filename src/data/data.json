@@ -1882,13 +1882,20 @@
                         "children": null
                       },
                       {
-                        "name": "Ranjini John",
+                        "name": "Ranjini Thomas",
                         "attributes": {
                           "Date of birth": "01.10.1974"
                         },
                         "children": null
                       }
                     ]
+                  },
+                  {
+                    "name": "Ranjini John",
+                    "attributes": {
+                      "Date of birth": "01.10.1974"
+                    },
+                    "children": null
                   },
                   {
                     "name": "Alice Thomas",

@@ -1880,15 +1880,15 @@
                           "Date of birth": "25.02.1969"
                         },
                         "children": null
+                      },
+                      {
+                        "name": "Ranjini John",
+                        "attributes": {
+                          "Date of birth": "01.10.1974"
+                        },
+                        "children": null
                       }
                     ]
-                  },
-                  {
-                    "name": "Ranjini John",
-                    "attributes": {
-                      "Date of birth": "01.10.1974"
-                    },
-                    "children": null
                   },
                   {
                     "name": "Alice Thomas",

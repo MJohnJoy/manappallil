@@ -4202,7 +4202,7 @@
     "pathFunc": "step",
     "renderCustomNodeElement": "svg",
     "collapsible": true,
-    "shouldCollapseNeighborNodes": true,
+    "shouldCollapseNeighborNodes": false,
     "initialDepth": 2,
     "depthFactor": null,
     "zoomable": true,

@@ -4212,8 +4212,8 @@
       "max": 1
     },
     "separation": {
-      "siblings": 1,
-      "nonSiblings": 1
+      "siblings": 1.25,
+      "nonSiblings": 1.25
     },
     "nodeSize": {
       "x": 200,

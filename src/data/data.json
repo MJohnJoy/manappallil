@@ -779,16 +779,16 @@
                     },
                     "children": [
                       {
-                        "name": "Asha Susan Daniel",
+                        "name": "Reni Mariam Daniel",
                         "attributes": {
-                          "Date of Birth": "13.03.1970"
+                          "Date of birth": "21.03.1968"
                         },
                         "children": null
                       },
                       {
-                        "name": "Johncy Daniel",
+                        "name": "Asha Susan Daniel",
                         "attributes": {
-                          "Date of Birth": "24.04.1972"
+                          "Date of Birth": "13.03.1970"
                         },
                         "children": [
                           {
@@ -799,6 +799,13 @@
                             "children": null
                           }
                         ]
+                      },
+                      {
+                        "name": "Johncy Daniel",
+                        "attributes": {
+                          "Date of Birth": "24.04.1972"
+                        },
+                        "children": null
                       }
                     ]
                   },

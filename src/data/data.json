@@ -1707,6 +1707,13 @@
                               "Date of birth": "26.07.2008"
                             },
                             "children": null
+                          },
+                          {
+                            "name": "Diya Susan Jacob",
+                            "attributes": {
+                              "Date Of Birth": "12.03.2010"
+                            },
+                            "children": null
                           }
                         ]
                       }
@@ -1997,7 +2004,7 @@
                     "children": null
                   },
                   {
-                    "name": "P. George John (Kunjukutty)",
+                    "name": "P. George John (Kunjujukutty)",
                     "attributes": {
                       "Date of birth": "1926",
                       "Date of death": "26.05.1994"
@@ -2010,7 +2017,7 @@
                         },
                         "children": [
                           {
-                            "name": "Reah Elizabeth George",
+                            "name": "Reah Anna George",
                             "attributes": {
                               "Date of birth": "15.03.1999"
                             },
@@ -2181,7 +2188,15 @@
                         "attributes": {
                           "Date Of Birth": "18.12.1982"
                         },
-                        "children": null
+                        "children": [
+                          {
+                            "name": "Leon Daniel Thomas",
+                            "attributes": {
+                              "Date Of Birth": "02.02.2016"
+                            },
+                            "children": null
+                          }
+                        ]
                       }
                     ]
                   }
@@ -3605,7 +3620,7 @@
                     },
                     "children": [
                       {
-                        "name": "Niel Manappallil",
+                        "name": "Niel  Vijayan Manappallil",
                         "attributes": {
                           "Date Of Birth": "13.04.1983"
                         },

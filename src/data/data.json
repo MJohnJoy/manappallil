@@ -790,22 +790,22 @@
                         "attributes": {
                           "Date of Birth": "13.03.1970"
                         },
-                        "children": [
-                          {
-                            "name": "Reys Susan Johncy",
-                            "attributes": {
-                              "Date of Birth": "15.07.2011"
-                            },
-                            "children": null
-                          }
-                        ]
+                        "children": null
                       },
                       {
                         "name": "Johncy Daniel",
                         "attributes": {
                           "Date of Birth": "24.04.1972"
                         },
-                        "children": null
+                        "children": [
+                          {
+                            "name": "Riya Susan Johncy",
+                            "attributes": {
+                              "Date Of Birth": "15.07.2011"
+                            },
+                            "children": null
+                          }
+                        ]
                       }
                     ]
                   },

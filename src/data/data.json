@@ -86,16 +86,16 @@
                         },
                         "children": [
                           {
-                            "name": "Maben Issac John",
+                            "name": "Mabin Issac John",
                             "attributes": {
-                              "Date Of Birth": "16.04.1992"
+                              "Date Of Birth": "16.04.1990"
                             },
                             "children": null
                           },
                           {
                             "name": "Jabin Issac John",
                             "attributes": {
-                              "Date Of Birth": "Unknown"
+                              "Date Of Birth": "15.04.1992"
                             },
                             "children": null
                           }
@@ -2212,8 +2212,8 @@
                   {
                     "name": "Mary John (Ponnamma)",
                     "attributes": {
-                      "Date Of Birth": "Unknown",
-                      "Date Of Death": "Unknown"
+                      "Date Of Birth": "21.12.1927",
+                      "Date Of Death": "03.03.1985"
                     },
                     "children": null
                   },
@@ -2228,7 +2228,8 @@
                   {
                     "name": "Elizabeth John (Elsi)",
                     "attributes": {
-                      "Date Of Birth": "26.12.1932"
+                      "Date Of Birth": "26.12.1932",
+                      "Date of death": "13.01.2018"
                     },
                     "children": null
                   },

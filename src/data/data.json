@@ -2358,7 +2358,15 @@
                             "attributes": {
                               "Date Of Birth": "08.04.1991"
                             },
-                            "children": null
+                            "children": [
+                              {
+                                "name": "Jake Rinju",
+                                "attributes": {
+                                  "Date of Birth": "23.04.2022"
+                                },
+                                "children": null
+                              }
+                            ]
                           }
                         ]
                       },
@@ -2372,13 +2380,6 @@
                             "name": "Jijin J. Oommen",
                             "attributes": {
                               "Date Of Birth": "31.12.1987"
-                            },
-                            "children": null
-                          },
-                          {
-                            "name": "Renjin J. Oommen",
-                            "attributes": {
-                              "Date Of Birth": "18.10.1990"
                             },
                             "children": null
                           }

@@ -30,8 +30,8 @@
                   {
                     "name": "M.V. Mariamma",
                     "attributes": {
-                      "Date of Birth": "Unknown",
-                      "Date of Death": "Unknown"
+                      "Date Of Birth": "Unknown",
+                      "Date Of Death": "Unknown"
                     },
                     "children": null
                   },
@@ -121,7 +121,7 @@
                   {
                     "name": "M.V. Abraham (Kunjumon)",
                     "attributes": {
-                      "Date of Birth": "30.04.1929",
+                      "Date Of Birth": "30.04.1929",
                       "Date of death": "10.05.2022"
                     },
                     "children": [
@@ -181,23 +181,23 @@
                   {
                     "name": "M.V. Annamma",
                     "attributes": {
-                      "Date of Birth": "23.07.1931",
-                      "Date of death": "31.05.2010"
+                      "Date Of Birth": "23.07.1931",
+                      "Date pf death": "31.05.2010"
                     },
                     "children": null
                   },
                   {
                     "name": "M.V. Aachenkunju",
                     "attributes": {
-                      "Date of Birth": "1933",
-                      "Date of death": "1938"
+                      "Date Of Birth": "1933",
+                      "Date pf death": "1938"
                     },
                     "children": null
                   },
                   {
                     "name": "M.V. Issac (Kuttachen)",
                     "attributes": {
-                      "Date of Birth": "19.05.1935"
+                      "Date Of Birth": "19.05.1935"
                     },
                     "children": [
                       {
@@ -301,8 +301,8 @@
                   {
                     "name": "M. G. Thomas (Thankachen)",
                     "attributes": {
-                      "Date of Birth": "1926",
-                      "Date of Death": "05.08.1999"
+                      "Date Of Birth": "1926",
+                      "Date Of Death": "05.08.1999"
                     },
                     "children": [
                       {
@@ -407,7 +407,7 @@
                   {
                     "name": "M. G. Ammini",
                     "attributes": {
-                      "Date of Birth": "Unknown"
+                      "Date Of Birth": "Unknown"
                     },
                     "children": null
                   },
@@ -4269,8 +4269,8 @@
               {
                 "name": "M. Daniel",
                 "attributes": {
-                  "Date of Birth": "Unknown",
-                  "Date of Death": "04.01.1959"
+                  "Date Of Birth": "Unknown",
+                  "Date Of Death": "04.01.1959"
                 },
                 "children": [
                   {
@@ -4336,8 +4336,8 @@
               {
                 "name": "Mariamma Kochumathai",
                 "attributes": {
-                  "Date of Birth": "Unknown",
-                  "Date of Death": "14.08.2002"
+                  "Date Of Birth": "Unknown",
+                  "Date Of Death": "14.08.2002"
                 },
                 "children": null
               }

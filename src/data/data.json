@@ -121,7 +121,7 @@
                   {
                     "name": "M.V. Abraham (Kunjumon)",
                     "attributes": {
-                      "Date Of Birth": "30.04.1929",
+                      "Date of Birth": "30.04.1929",
                       "Date of death": "10.05.2022"
                     },
                     "children": [
@@ -181,15 +181,15 @@
                   {
                     "name": "M.V. Annamma",
                     "attributes": {
-                      "Date Of Birth": "23.07.1931",
-                      "Date pf death": "31.05.2010"
+                      "Date of Birth": "23.07.1931",
+                      "Date of death": "31.05.2010"
                     },
                     "children": null
                   },
                   {
                     "name": "M.V. Aachenkunju",
                     "attributes": {
-                      "Date Of Birth": "1933",
+                      "Date of Birth": "1933",
                       "Date pf death": "1938"
                     },
                     "children": null
@@ -301,8 +301,8 @@
                   {
                     "name": "M. G. Thomas (Thankachen)",
                     "attributes": {
-                      "Date Of Birth": "1926",
-                      "Date Of Death": "05.08.1999"
+                      "Date of Birth": "1926",
+                      "Date of Death": "05.08.1999"
                     },
                     "children": [
                       {
@@ -407,7 +407,7 @@
                   {
                     "name": "M. G. Ammini",
                     "attributes": {
-                      "Date Of Birth": "Unknown"
+                      "Date of Birth": "Unknown"
                     },
                     "children": null
                   },

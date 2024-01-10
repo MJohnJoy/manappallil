@@ -2116,7 +2116,8 @@
                   {
                     "name": "Alice Thomas",
                     "attributes": {
-                      "Date of birth": "17.09.1931"
+                      "Date of birth": "17.09.1931",
+                      "Date of death": "27.12.2023"
                     },
                     "children": null
                   },
@@ -3993,7 +3994,15 @@
                         "attributes": {
                           "Date Of Birth": "21.10.1993"
                         },
-                        "children": null
+                        "children": [
+                          {
+                            "name": "Rebecca Anna Robin",
+                            "attributes": {
+                              "date of birth": "08.10.2023"
+                            },
+                            "children": null
+                          }
+                        ]
                       },
                       {
                         "name": "Reeba Elizabeth Robby",

@@ -2927,7 +2927,9 @@
                       {
                         "name": "George M. Varghese (Georgekutty)",
                         "attributes": {
-                          "Date Of Birth": "14.12.1954"
+                          "Date Of Birth": "14.12.1954",
+                          "Date of death": "07.04.2023",
+                          "Wife": "Mercy"
                         },
                         "children": [
                           {
@@ -2950,7 +2952,8 @@
                       {
                         "name": "Eapen M. Varghese (Shaji)",
                         "attributes": {
-                          "Date Of Birth": "13.03.1956"
+                          "Date Of Birth": "13.03.1956",
+                          "Wife": "Valsa"
                         },
                         "children": [
                           {
@@ -2980,7 +2983,8 @@
                       {
                         "name": "Jos M. Varghese (Thampy)",
                         "attributes": {
-                          "Date Of Birth": "30.05.1960"
+                          "Date Of Birth": "30.05.1960",
+                          "Wife": "Jaya"
                         },
                         "children": [
                           {
@@ -3003,7 +3007,8 @@
                         "name": "John M. Varghese (Joemon)",
                         "attributes": {
                           "Date Of Birth": "12.01.1962",
-                          "Date Of Death": "31.03.2020"
+                          "Date Of Death": "31.03.2020",
+                          "Wife": "Shini"
                         },
                         "children": [
                           {
@@ -3025,7 +3030,8 @@
                       {
                         "name": "Sam M. Varghese (Animon)",
                         "attributes": {
-                          "Date Of Birth": "13.12.1964"
+                          "Date Of Birth": "13.12.1964",
+                          "Wife": "Mini"
                         },
                         "children": [
                           {
@@ -3057,7 +3063,8 @@
                       {
                         "name": "George Cheriyan (Georgy)",
                         "attributes": {
-                          "Date Of Birth": "24.06.1954"
+                          "Date Of Birth": "24.06.1954",
+                          "Wife": "Darly"
                         },
                         "children": [
                           {
@@ -3094,7 +3101,8 @@
                       {
                         "name": "Tom Cheriyan (Thampy)",
                         "attributes": {
-                          "Date Of Birth": "29.06.1956"
+                          "Date Of Birth": "29.06.1956",
+                          "Wife": "Rekha"
                         },
                         "children": [
                           {
@@ -3116,14 +3124,16 @@
                       {
                         "name": "Sheila Cheriyan",
                         "attributes": {
-                          "Date Of Birth": "28.08.1958"
+                          "Date Of Birth": "28.08.1958",
+                          "Husband": "Bobby Philips"
                         },
                         "children": null
                       },
                       {
                         "name": "Ronnie T. Cheriyan",
                         "attributes": {
-                          "Date Of Birth": "15.11.1963"
+                          "Date Of Birth": "15.11.1963",
+                          "Wife": "Minila"
                         },
                         "children": [
                           {
@@ -3156,7 +3166,8 @@
                         "name": "M. M. George (Georgy)",
                         "attributes": {
                           "Date Of Birth": "04.10.1954",
-                          "Date Of Death": "05.02.2021"
+                          "Date Of Death": "05.02.2021",
+                          "Wife": "Ammini"
                         },
                         "children": [
                           {
@@ -3200,7 +3211,8 @@
                       {
                         "name": "Elizabeth Mathew (Omana)",
                         "attributes": {
-                          "Date Of Birth": "21.07.1958"
+                          "Date Of Birth": "21.07.1958",
+                          "Husband": "Varghese Mathew"
                         },
                         "children": null
                       },

@@ -2921,7 +2921,7 @@
                       "Date Of Death": "03.08.1987",
                       "First Wife": "Saramma",
                       "Date of death": "06.03.1957",
-                      "Second Wife": "Lillikutty"
+                      "Second Wife": "Lillikutty (Died on 27.06.2015)"
                     },
                     "children": [
                       {
@@ -3050,7 +3050,8 @@
                     "name": "M. G. Cheriyan (Kunjujukutty)",
                     "attributes": {
                       "Date Of Birth": "28.12.1921",
-                      "Date Of Death": "26.01.2005"
+                      "Date Of Death": "26.01.2005",
+                      "Wife": "Marykutty (Died on 02.01.2009)"
                     },
                     "children": [
                       {
@@ -3147,7 +3148,8 @@
                     "name": "M. G. Mathew (Mathukutty)",
                     "attributes": {
                       "Date Of Birth": "27.07.1924",
-                      "Date Of Death": "02.06.1986"
+                      "Date Of Death": "02.06.1986",
+                      "Wife": "V.K. Annamma (Died on 22.03.2000)"
                     },
                     "children": [
                       {
@@ -3268,7 +3270,9 @@
                     "name": "M. G. Thomas (Thomaskutty)",
                     "attributes": {
                       "Date Of Birth": "09.02.1929",
-                      "Date Of Death": "08.08.2011"
+                      "Date Of Death": "08.08.2011",
+                      "Wife": "Saramma (Amminikutty)",
+                      "Date of death ": "25.04.2013"
                     },
                     "children": [
                       {
@@ -3284,7 +3288,8 @@
                     "name": "David M. Davidson (Babu)",
                     "attributes": {
                       "Date Of Birth": "29.06.1943",
-                      "Date Of Death": "16.05.2016"
+                      "Date Of Death": "16.05.2016",
+                      "Wife": "Sara K. John (Molly)"
                     },
                     "children": [
                       {
@@ -3321,7 +3326,8 @@
                   {
                     "name": "Lissy Varghese (Darly)",
                     "attributes": {
-                      "Date Of Birth": "06.01.1945"
+                      "Date Of Birth": "06.01.1945",
+                      "Husband": "George Mathew (Kunjumon)"
                     },
                     "children": null
                   },
@@ -3329,7 +3335,8 @@
                     "name": "Johnson Geevarghese (Raju)",
                     "attributes": {
                       "Date Of Birth": "13.05.1948",
-                      "Date Of Death": "26.02.1993"
+                      "Date Of Death": "26.02.1993",
+                      "Wife": "Aswathy"
                     },
                     "children": [
                       {

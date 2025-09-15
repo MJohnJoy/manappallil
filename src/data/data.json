@@ -3339,14 +3339,18 @@
                 "name": "M. G. John (johny)",
                 "attributes": {
                   "Date Of Birth": "04.12.1900",
-                  "Date Of Death": "21.02.1979"
+                  "Date Of Death": "21.02.1979",
+                  "Wife": "Mariamma John",
+                  "Date of death": "01.10.1987"
                 },
                 "children": [
                   {
                     "name": "M. G. Annamma (Ponnamma)",
                     "attributes": {
                       "Date Of Birth": "26.12.1926",
-                      "Date Of Death": "26.03.1983"
+                      "Date Of Death": "26.03.1983",
+                      "Husband": "P. J.  Abraham",
+                      "Date of death": "06.01.2000"
                     },
                     "children": null
                   },
@@ -3354,7 +3358,9 @@
                     "name": "M. J. Rachel (Rosamma)",
                     "attributes": {
                       "Date Of Birth": "1928",
-                      "Date Of Death": "05.12.1964"
+                      "Date Of Death": "05.12.1964",
+                      "Husband": "P. O. Ninan",
+                      "Date of death": "27.12.1977"
                     },
                     "children": null
                   },
@@ -3370,7 +3376,9 @@
                     "name": "M. J. Rajan (Raju)",
                     "attributes": {
                       "Date Of Birth": "20.03.1932",
-                      "Date Of Death": "30.12.1996"
+                      "Date Of Death": "30.12.1996",
+                      "Wife": "Valsamma",
+                      "Date of death": "17.07.2018"
                     },
                     "children": [
                       {
@@ -3407,14 +3415,19 @@
                   {
                     "name": "M. J. Mary (Mercy)",
                     "attributes": {
-                      "Date Of Birth": "18.02.1939"
+                      "Date Of Birth": "18.02.1939",
+                      "Husband": "John Thomas",
+                      "Date of death": "04.12.2024"
                     },
                     "children": null
                   },
                   {
                     "name": "M. John Joy",
                     "attributes": {
-                      "Date Of Birth": "18.02.1939"
+                      "Date Of Birth": "18.02.1939",
+                      "First Wife": "Gracy",
+                      "Date of death": "18.03.2005",
+                      "Second Wife": "Cicily"
                     },
                     "children": [
                       {
@@ -3469,14 +3482,17 @@
                   {
                     "name": "Sosamma John (Ivy)",
                     "attributes": {
-                      "Date Of Birth": "16.05.1942"
+                      "Date Of Birth": "16.05.1942",
+                      "Husband": "P. C. Varghese Kunju",
+                      "Date of Death": "24.04.1990"
                     },
                     "children": null
                   },
                   {
                     "name": "Johnson Manappallil (Thankachen)",
                     "attributes": {
-                      "Date Of Birth": "26.05.1944"
+                      "Date Of Birth": "26.05.1944",
+                      "Wife": "Annamma (Leelamma)"
                     },
                     "children": [
                       {
@@ -3506,7 +3522,8 @@
                   {
                     "name": "Alexander M. John (Laly)",
                     "attributes": {
-                      "Date Of Birth": "10.10.1946"
+                      "Date Of Birth": "10.10.1946",
+                      "Wife": "Molly"
                     },
                     "children": [
                       {

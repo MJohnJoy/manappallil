@@ -2899,21 +2899,29 @@
             "name": "M. G. Geevarghese (Writer)",
             "attributes": {
               "Date Of Birth": "1872",
-              "Date Of Death": "13.09.1941"
+              "Date Of Death": "13.09.1941",
+              "Wife": "Annamma",
+              "Date of death": "20.08.1957"
             },
             "children": [
               {
                 "name": "M. G. Varghese (Unni)",
                 "attributes": {
                   "Date Of Birth": "00.07.1897",
-                  "Date Of Death": "27.08.1966"
+                  "Date Of Death": "27.08.1966",
+                  "First Wife": "Achamma (Late)",
+                  "Second Wife": "Aleyamma",
+                  "Date of death": "08.05.1974"
                 },
                 "children": [
                   {
                     "name": "M. G. Varghese (Baby)",
                     "attributes": {
                       "Date Of Birth": "01.07.1919",
-                      "Date Of Death": "03.08.1987"
+                      "Date Of Death": "03.08.1987",
+                      "First Wife": "Saramma",
+                      "Date of death": "06.03.1957",
+                      "Second Wife": "Lillikutty"
                     },
                     "children": [
                       {
@@ -3577,7 +3585,9 @@
                 "name": "M. G. Kunjamma",
                 "attributes": {
                   "Date Of Birth": "28.03.1903",
-                  "Date Of Death": "28.07.1980"
+                  "Date Of Death": "28.07.1980",
+                  "Husband": "K. G. Varghese",
+                  "Date of death": "28.10.1976"
                 },
                 "children": null
               },
@@ -3585,7 +3595,9 @@
                 "name": "M. G. Thomas (Thomachen)",
                 "attributes": {
                   "Date Of Birth": "1906",
-                  "Date Of Death": "unknown"
+                  "Date Of Death": "unknown",
+                  "Wife": "Kunjamma",
+                  "Date of death": "04.09.2016"
                 },
                 "children": [
                   {
@@ -3647,7 +3659,8 @@
                 "name": "M. G. Chinnamma",
                 "attributes": {
                   "Date Of Birth": "1910",
-                  "Date Of Death": "1993"
+                  "Date Of Death": "1993",
+                  "Husband": "Late Rev.Fr.George Purackal"
                 },
                 "children": null
               },
@@ -3655,7 +3668,8 @@
                 "name": "M. G. Thankamma",
                 "attributes": {
                   "Date Of Birth": "1913",
-                  "Date Of Death": "uUnknown"
+                  "Date Of Death": "uUnknown",
+                  "Husband": "Late Ittykunju"
                 },
                 "children": null
               },
@@ -3663,7 +3677,9 @@
                 "name": "M. G. Samuel",
                 "attributes": {
                   "Date Of Birth": "10.08.1920",
-                  "Date Of Death": "31.12.1980"
+                  "Date Of Death": "31.12.1980",
+                  "Wife": "Saramma",
+                  "Date of death": "11.11.1998"
                 },
                 "children": [
                   {

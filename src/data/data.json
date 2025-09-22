@@ -3219,7 +3219,9 @@
                       {
                         "name": "Philip M. Mathew",
                         "attributes": {
-                          "Date Of Birth": "11.06.1960"
+                          "Date Of Birth": "11.06.1960",
+                          "First Wife": "Renu (Divorced)",
+                          "Second Wife": "Jolly"
                         },
                         "children": [
                           {
@@ -3241,7 +3243,8 @@
                       {
                         "name": "Aachamma Mathew (Kunjumol)",
                         "attributes": {
-                          "Date Of Birth": "12.09.1961"
+                          "Date Of Birth": "12.09.1961",
+                          "Husband": "Reji P. Thomas"
                         },
                         "children": null
                       },
@@ -3249,7 +3252,8 @@
                         "name": "M. M. Thomas (Rajan)",
                         "attributes": {
                           "Date Of Birth": "29.07.1963",
-                          "Date Of Death": "Unknown"
+                          "Date Of Death": "Unknown",
+                          "Wife": "Sushama"
                         },
                         "children": [
                           {
@@ -3290,7 +3294,8 @@
                       {
                         "name": "Sheelu Saira Thomas",
                         "attributes": {
-                          "Date Of Birth": "12.03.1989"
+                          "Date Of Birth": "12.03.1989",
+                          "Husband": "Antony"
                         },
                         "children": null
                       }
@@ -3307,7 +3312,8 @@
                       {
                         "name": "Deepak M. Davidson",
                         "attributes": {
-                          "Date Of Birth": "16.08.1980"
+                          "Date Of Birth": "16.08.1980",
+                          "Wife": "Anju"
                         },
                         "children": [
                           {
@@ -3354,7 +3360,8 @@
                       {
                         "name": "Reena Alice Gheevarghese",
                         "attributes": {
-                          "Date Of Birth": "21.12.1982"
+                          "Date Of Birth": "21.12.1982",
+                          "Husband": "Joby Kurien"
                         },
                         "children": null
                       }
@@ -3411,21 +3418,24 @@
                       {
                         "name": "Leena Raj",
                         "attributes": {
-                          "Date Of Birth": "14.10.1962"
+                          "Date Of Birth": "14.10.1962",
+                          "Husband": "Sunny Philip"
                         },
                         "children": null
                       },
                       {
                         "name": "Latha Raj",
                         "attributes": {
-                          "Date Of Birth": "25.12.1964"
+                          "Date Of Birth": "25.12.1964",
+                          "Husband": "Ranjit Salim"
                         },
                         "children": null
                       },
                       {
                         "name": "Beena Raj",
                         "attributes": {
-                          "Date Of Birth": "06.11.1972"
+                          "Date Of Birth": "06.11.1972",
+                          "Husband": "Saji Zachariah"
                         },
                         "children": null
                       }
@@ -3460,7 +3470,8 @@
                       {
                         "name": "John Joy Manappallil (Anil)",
                         "attributes": {
-                          "Date Of Birth": "06.09.1967"
+                          "Date Of Birth": "06.09.1967",
+                          "Wife": "Divya Susan John"
                         },
                         "children": [
                           {
@@ -3485,7 +3496,9 @@
                       {
                         "name": "Alexander Joy Manappallil",
                         "attributes": {
-                          "Date Of Birth": "01.09.1970"
+                          "Date Of Birth": "01.09.1970",
+                          "First wife": "Vidhu (Divorced)",
+                          "2nd wife": "Annu"
                         },
                         "children": [
                           {
@@ -3525,14 +3538,16 @@
                       {
                         "name": "Mini Johnson",
                         "attributes": {
-                          "Date Of Birth": "11.07.1974"
+                          "Date Of Birth": "11.07.1974",
+                          "Husband": "Bobby Oommen Philips"
                         },
                         "children": null
                       },
                       {
                         "name": "John Johnson Manappallil (Manu)",
                         "attributes": {
-                          "Date Of Birth": "04.01.1983"
+                          "Date Of Birth": "04.01.1983",
+                          "Wife": "Nishu Memoriya"
                         },
                         "children": [
                           {
@@ -3556,14 +3571,16 @@
                       {
                         "name": "Jenny Alexander",
                         "attributes": {
-                          "Date Of Birth": "25.04.1980"
+                          "Date Of Birth": "25.04.1980",
+                          "Husband": "Manoj Jacob"
                         },
                         "children": null
                       },
                       {
                         "name": "John Alexander Manappallil (Jerin)",
                         "attributes": {
-                          "Date Of Birth": "17.08.1982"
+                          "Date Of Birth": "17.08.1982",
+                          "Wife": "Linju"
                         },
                         "children": [
                           {
@@ -3639,14 +3656,16 @@
                       {
                         "name": "Jini Chacko",
                         "attributes": {
-                          "Date Of Birth": "25.01.1982"
+                          "Date Of Birth": "25.01.1982",
+                          "Husband": "Sanjia Benny Paul"
                         },
                         "children": null
                       },
                       {
                         "name": "Jiju Chacko",
                         "attributes": {
-                          "Date Of Birth": "27.11.1985"
+                          "Date Of Birth": "27.11.1985",
+                          "Wife": "Minu Poulose"
                         },
                         "children": [
                           {

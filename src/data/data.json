@@ -3061,7 +3061,7 @@
                     },
                     "children": [
                       {
-                        "name": "George Cheriyan (Georgy)",
+                        "name": "George Cheriyan (Georgie)",
                         "attributes": {
                           "Date Of Birth": "24.06.1954",
                           "Wife": "Darly"
@@ -3092,14 +3092,15 @@
                           {
                             "name": "Paul George Cheriyan",
                             "attributes": {
-                              "Date Of Birth": "05.10.1985"
+                              "Date Of Birth": "05.10.1985",
+                              "Wife": "Ashley Nadeau"
                             },
                             "children": null
                           }
                         ]
                       },
                       {
-                        "name": "Tom Cheriyan (Thampy)",
+                        "name": "Tom V Cheriyan (Thampi)",
                         "attributes": {
                           "Date Of Birth": "29.06.1956",
                           "Wife": "Rekha"
@@ -3108,7 +3109,8 @@
                           {
                             "name": "Christina Cheriyan",
                             "attributes": {
-                              "Date Of Birth": "09.08.1992"
+                              "Date Of Birth": "09.08.1992",
+                              "Husband": "Eugene Atkinson"
                             },
                             "children": null
                           },

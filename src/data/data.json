@@ -3997,13 +3997,17 @@
                 "name": "Rev. Fr. M.C. Thomas",
                 "attributes": {
                   "Date Of Birth": "07.08.1917",
-                  "Date Of Death": "16.07.1992"
+                  "Date Of Death": "16.07.1992",
+                  "Wife": "Aleyamma (Lillikutty)",
+                  "Died on": "30.09.2002"
                 },
                 "children": [
                   {
                     "name": "Mahilamma Thomas",
                     "attributes": {
-                      "Date Of Birth": "22.03.1946"
+                      "Date Of Birth": "22.03.1946",
+                      "Husband": "K.V. John",
+                      "Died on": "1996"
                     },
                     "children": null
                   },
@@ -4011,7 +4015,8 @@
                     "name": "Roy Thomas (Aachenkunju)",
                     "attributes": {
                       "Date Of Birth": "07.08.1947",
-                      "Date Of Death": "14.04.2005"
+                      "Date Of Death": "14.04.2005",
+                      "Wife": "Isha"
                     },
                     "children": [
                       {
@@ -4033,14 +4038,17 @@
                   {
                     "name": "Sophiamma Thomas (Kochumol)",
                     "attributes": {
-                      "Date Of Birth": "20.08.1951"
+                      "Date Of Birth": "20.08.1951",
+                      "Husband": "John Mathew"
                     },
                     "children": null
                   },
                   {
                     "name": "Susan Thomas (Molamma)",
                     "attributes": {
-                      "Date Of Birth": "02.05.1856"
+                      "Date Of Birth": "02.05.1856",
+                      "Husband": "Thampi",
+                      "Died on": ""
                     },
                     "children": null
                   },

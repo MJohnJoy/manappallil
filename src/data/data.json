@@ -10,14 +10,16 @@
         "name": "Gheevarghese Cheriyan",
         "attributes": {
           "Date Of Birth": "Unknown",
-          "Date Of Death": "Unknown"
+          "Date Of Death": "Unknown",
+          "Wife": "Late Kochitamma"
         },
         "children": [
           {
             "name": "M. G. Cheria",
             "attributes": {
               "Date Of Birth": "Unknown",
-              "Date Of Death": "Unknown"
+              "Date Of Death": "Unknown",
+              "Wife": "Late Annamma"
             },
             "children": [
               {
@@ -256,7 +258,8 @@
             "name": "M. G. Tommy",
             "attributes": {
               "Date Of Birth": "Unknown",
-              "Date Of Death": "Unknown"
+              "Date Of Death": "Unknown",
+              "Wife": "Mariamma"
             },
             "children": [
               {
@@ -636,7 +639,8 @@
             "name": "M. G. Cheriyan",
             "attributes": {
               "Date Of Birth": "Unknown",
-              "Date Of Death": "Unknown"
+              "Date Of Death": "Unknown",
+              "Wife": "Late Saramma"
             },
             "children": [
               {
@@ -2003,7 +2007,8 @@
             "name": "M. G. John (Ranger)",
             "attributes": {
               "Date Of Birth": "1868",
-              "Date Of Death": "18.09.1941"
+              "Date Of Death": "18.09.1941",
+              "Wife": "Late Aachamma"
             },
             "children": [
               {
@@ -2822,7 +2827,8 @@
             "name": "M. G. Easow",
             "attributes": {
               "Date Of Birth": "Unknown",
-              "Date Of Death": "Unknown"
+              "Date Of Death": "Unknown",
+              "Wife": "Late Aleyamma"
             },
             "children": [
               {
@@ -3776,7 +3782,9 @@
             "name": "M. G. Mathen",
             "attributes": {
               "Date Of Birth": "Unknown",
-              "Date Of Death": "30.08.1943"
+              "Date Of Death": "30.08.1943",
+              "Wife": "Rahelamma",
+              "Died on": "29.10.1963"
             },
             "children": [
               {
@@ -3982,7 +3990,9 @@
             "name": "Rev. Fr. M. G. Jacob",
             "attributes": {
               "Date Of Birth": "1883",
-              "Date Of Death": "19.01.1960"
+              "Date Of Death": "19.01.1960",
+              "Wife": "Mariamma",
+              "Died": "07.02.1971"
             },
             "children": [
               {
@@ -4121,7 +4131,9 @@
             "name": "M.G. Daniel",
             "attributes": {
               "Date Of Birth": "1889",
-              "Date Of Death": "12.06.1965"
+              "Date Of Death": "12.06.1965",
+              "Wife": "Kuttiyamma",
+              "Died": "08.10.1975"
             },
             "children": [
               {
@@ -4251,14 +4263,16 @@
         "name": "Mathai Cheriyan",
         "attributes": {
           "Date Of Birth": "Unknown",
-          "Date Of Death": "Unknown"
+          "Date Of Death": "Unknown",
+          "Wife": "Late Mariamma"
         },
         "children": [
           {
             "name": "Kochumathai",
             "attributes": {
               "Date Of Birth": "Unknown",
-              "Date Of Death": "Unknown"
+              "Date Of Death": "Unknown",
+              "Wife": "Late Annamma"
             },
             "children": [
               {
@@ -4448,7 +4462,8 @@
             "name": "Aleyamma Mathai",
             "attributes": {
               "Date Of Birth": "Unknown",
-              "Date Of Death": "Unknown"
+              "Date Of Death": "Unknown",
+              "Husband": "Late Kutti"
             },
             "children": null
           },
@@ -4456,7 +4471,8 @@
             "name": "Mariamma Mathai",
             "attributes": {
               "Date Of Birth": "Unknown",
-              "Date Of Death": "Unknown"
+              "Date Of Death": "Unknown",
+              "Husband": "Late Gheevarghese"
             },
             "children": null
           }

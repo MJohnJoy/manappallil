@@ -26,14 +26,18 @@
                 "name": "Cheriyan Geevarghese (Unnunni)",
                 "attributes": {
                   "Date Of Birth": "1887",
-                  "Date Of Death": "11.07.1965"
+                  "Date Of Death": "11.07.1965",
+                  "Wife 1": "Annamma (DoD unknown)",
+                  "Wife 2": "Saramma (DoD 09.12.1976)"
                 },
                 "children": [
                   {
                     "name": "M.V. Mariamma",
                     "attributes": {
                       "Date Of Birth": "Unknown",
-                      "Date Of Death": "Unknown"
+                      "Date Of Death": "Unknown",
+                      "Husband": "T. Joseph",
+                      "DoD": "unknown"
                     },
                     "children": null
                   },
@@ -41,7 +45,8 @@
                     "name": "M.V. Ammini",
                     "attributes": {
                       "Date Of Birth": "Unknown",
-                      "Date Of Death": "Unknown"
+                      "Date Of Death": "Unknown",
+                      "Husband": "Unmarried"
                     },
                     "children": null
                   },
@@ -49,27 +54,32 @@
                     "name": "M.V. John",
                     "attributes": {
                       "Date Of Birth": "1923",
-                      "Date Of Death": "23.03.1984"
+                      "Date Of Death": "23.03.1984",
+                      "Wife": "Ammini",
+                      "DoD": "22.03.2017"
                     },
                     "children": [
                       {
                         "name": "Saramma John",
                         "attributes": {
-                          "Date Of Birth": "23.03.1952"
+                          "Date Of Birth": "23.03.1952",
+                          "Husband": "M.G. Samuel"
                         },
                         "children": null
                       },
                       {
                         "name": "Rachel John",
                         "attributes": {
-                          "Date Of Birth": "15.08.1954"
+                          "Date Of Birth": "15.08.1954",
+                          "Husband": "Simon Koshy"
                         },
                         "children": null
                       },
                       {
                         "name": "Sally John",
                         "attributes": {
-                          "Date Of Birth": "02.10.1956"
+                          "Date Of Birth": "02.10.1956",
+                          "Husband": "Late John"
                         },
                         "children": null
                       },
@@ -84,13 +94,15 @@
                       {
                         "name": "Issac John (Biju)",
                         "attributes": {
-                          "Date Of Birth": "25.07.1960"
+                          "Date Of Birth": "25.07.1960",
+                          "Wife": "Mary"
                         },
                         "children": [
                           {
                             "name": "Mabin Issac John",
                             "attributes": {
-                              "Date Of Birth": "16.04.1990"
+                              "Date Of Birth": "16.04.1990",
+                              "Wife": ""
                             },
                             "children": null
                           },
@@ -106,7 +118,8 @@
                       {
                         "name": "Siju Elizabeth John",
                         "attributes": {
-                          "Date Of Birth": "10.04.1973"
+                          "Date Of Birth": "10.04.1973",
+                          "Husband": "Reji Mathew Abraham"
                         },
                         "children": null
                       }
@@ -116,7 +129,8 @@
                     "name": "M.V. Daniel (Dani)",
                     "attributes": {
                       "Date Of Birth": "1926",
-                      "Date Of Death": "16.04.1979"
+                      "Date Of Death": "16.04.1979",
+                      "Wife": "Unmarried"
                     },
                     "children": null
                   },
@@ -124,20 +138,24 @@
                     "name": "M.V. Abraham (Kunjumon)",
                     "attributes": {
                       "Date of Birth": "30.04.1929",
-                      "Date of death": "10.05.2022"
+                      "Date of death": "10.05.2022",
+                      "Wife": "Marykutty"
                     },
                     "children": [
                       {
                         "name": "Saramma Abraham",
                         "attributes": {
-                          "Date Of Birth": "12.01.1962"
+                          "Date Of Birth": "12.01.1962",
+                          "Husband": "Jacob P. Oommen (Saji)"
                         },
                         "children": null
                       },
                       {
                         "name": "Varghese Abraham (Jerry)",
                         "attributes": {
-                          "Date Of Birth": "30.01.1967"
+                          "Date Of Birth": "30.01.1967",
+                          "Wife1": "Tiji (Divorced)",
+                          "Wife2": "Sheila Stag"
                         },
                         "children": [
                           {
@@ -159,7 +177,8 @@
                       {
                         "name": "Samuel Abraham (Benny)",
                         "attributes": {
-                          "Date Of Birth": "21.10.1968"
+                          "Date Of Birth": "21.10.1968",
+                          "Wife": "Sajani Joseph"
                         },
                         "children": [
                           {
@@ -184,7 +203,9 @@
                     "name": "M.V. Annamma",
                     "attributes": {
                       "Date of Birth": "23.07.1931",
-                      "Date of death": "31.05.2010"
+                      "Date of death": "31.05.2010",
+                      "Husband": "Geevarghese Baby",
+                      "DoD": "Unknown"
                     },
                     "children": null
                   },
@@ -199,13 +220,16 @@
                   {
                     "name": "M.V. Issac (Kuttachen)",
                     "attributes": {
-                      "Date Of Birth": "19.05.1935"
+                      "Date Of Birth": "19.05.1935",
+                      "Wife": "Marykutty",
+                      "DoD": "Unknown"
                     },
                     "children": [
                       {
                         "name": "Varghese Issac (joji)",
                         "attributes": {
-                          "Date Of Birth": "07.05.1967"
+                          "Date Of Birth": "07.05.1967",
+                          "Wife": "Reena (Divorced)"
                         },
                         "children": [
                           {
@@ -220,7 +244,8 @@
                       {
                         "name": "Cheriyan Issac (Reji)",
                         "attributes": {
-                          "Date Of Birth": "07.07.1968"
+                          "Date Of Birth": "07.07.1968",
+                          "Wife": "Monisha"
                         },
                         "children": [
                           {
@@ -240,7 +265,8 @@
                 "name": "Annamma Cheria",
                 "attributes": {
                   "Date Of Birth": "Unknown",
-                  "Date Of Death": "Unknown"
+                  "Date Of Death": "Unknown",
+                  "Husband": "Kunjachen (DoD Unknown)"
                 },
                 "children": null
               },
@@ -248,7 +274,8 @@
                 "name": "Mariamma Cheria",
                 "attributes": {
                   "Date Of Birth": "Unknown",
-                  "Date Of Death": "Unknown"
+                  "Date Of Death": "Unknown",
+                  "Husband": "Unmarried"
                 },
                 "children": null
               }

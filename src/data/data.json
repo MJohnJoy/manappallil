@@ -2862,41 +2862,45 @@
                 "name": "M. E. Varghese (Kochukunju)",
                 "attributes": {
                   "Date Of Birth": "Unknown",
-                  "Date Of Death": "Unknown",
-                  "Wife": "Aachiamma"
+                  "Date Of Death": "Unknown"
                 },
                 "children": [
                   {
                     "name": "K. M. Aliayamma (Kunjujuamma)",
                     "attributes": {
-                      "Date Of Birth": "Unknown"
+                      "Date Of Birth": "Unknown",
+                      "Husband": "Mathews Abraham"
                     },
                     "children": null
                   },
                   {
                     "name": "K. M. Varghese (Raju)",
                     "attributes": {
-                      "Date Of Birth": "18.09.1940"
+                      "Date Of Birth": "18.09.1940",
+                      "Wife": "Mariamma (Ammu)"
                     },
                     "children": [
                       {
                         "name": "Beena Varghese",
                         "attributes": {
-                          "Date Of Birth": "18.07.1972"
+                          "Date Of Birth": "18.07.1972",
+                          "Husband": "Leji Koshy"
                         },
                         "children": null
                       },
                       {
                         "name": "Leena Varghese",
                         "attributes": {
-                          "Date Of Birth": "08.06.1974"
+                          "Date Of Birth": "08.06.1974",
+                          "Husband": "Boby Toms"
                         },
                         "children": null
                       },
                       {
                         "name": "Robin Varghese",
                         "attributes": {
-                          "Date Of Birth": "25.08.1978"
+                          "Date Of Birth": "25.08.1978",
+                          "Wife": "Jenni Chacko"
                         },
                         "children": [
                           {
@@ -2913,7 +2917,8 @@
                   {
                     "name": "K. M. Sosamma (Mercy)",
                     "attributes": {
-                      "Date Of Birth": "Unknown"
+                      "Date Of Birth": "Unknown",
+                      "Husband": "A.S. Varghese"
                     },
                     "children": null
                   }
@@ -2923,7 +2928,9 @@
                 "name": "M. E. Kunjamma",
                 "attributes": {
                   "Date Of Birth": "Unknown",
-                  "Date Of Death": "Unknown"
+                  "Date Of Death": "Unknown",
+                  "Husband": "Unnunni",
+                  "DoD": "Unknown"
                 },
                 "children": null
               }

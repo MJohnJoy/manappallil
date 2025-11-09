@@ -4298,7 +4298,9 @@
                 "name": "Kunjamma Kochumathai",
                 "attributes": {
                   "Date Of Birth": "Unknown",
-                  "Date Of Death": "23.08.1995"
+                  "Date Of Death": "23.08.1995",
+                  "Husband": "Peter",
+                  "DoD": "Unknown"
                 },
                 "children": null
               },
@@ -4306,13 +4308,17 @@
                 "name": "Mathai Varghese",
                 "attributes": {
                   "Date Of Birth": "04.01.1900",
-                  "Date Of Death": "13.07.1969"
+                  "Date Of Death": "13.07.1969",
+                  "Wife": "Mariamma",
+                  "DoD": "Unknown"
                 },
                 "children": [
                   {
                     "name": "M. V. Joy",
                     "attributes": {
-                      "Date Of Birth": "25.03.1939"
+                      "Date Of Birth": "25.03.1939",
+                      "Wife": "Susannamma",
+                      "DoD": "25.03.2022"
                     },
                     "children": [
                       {
@@ -4396,7 +4402,9 @@
                 "name": "Chinnamma Kochumathai",
                 "attributes": {
                   "Date Of Birth": "Unknown",
-                  "Date Of Death": "20.01.1971"
+                  "Date Of Death": "20.01.1971",
+                  "Husband": "Joseph",
+                  "DoD": "Unknown"
                 },
                 "children": null
               },
@@ -4404,7 +4412,9 @@
                 "name": "M. Daniel",
                 "attributes": {
                   "Date Of Birth": "Unknown",
-                  "Date Of Death": "04.01.1959"
+                  "Date Of Death": "04.01.1959",
+                  "Wife": "Chinnamma",
+                  "DoD": "13.09.2013"
                 },
                 "children": [
                   {
@@ -4471,7 +4481,9 @@
                 "name": "Mariamma Kochumathai",
                 "attributes": {
                   "Date Of Birth": "Unknown",
-                  "Date Of Death": "14.08.2002"
+                  "Date Of Death": "14.08.2002",
+                  "Husband": "Kochummen",
+                  "DoD": "Unknown"
                 },
                 "children": null
               }

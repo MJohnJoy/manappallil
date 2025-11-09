@@ -4140,7 +4140,9 @@
                 "name": "Baby Daniel",
                 "attributes": {
                   "Date Of Birth": "14.06.1910",
-                  "Date Of Death": "14.03.1978"
+                  "Date Of Death": "14.03.1978",
+                  "Husband": "M.D. Varghese",
+                  "DoD": "12.09.1995"
                 },
                 "children": null
               },
@@ -4148,7 +4150,9 @@
                 "name": "Alikutty Daniel",
                 "attributes": {
                   "Date Of Birth": "Unknown",
-                  "Date Of Death": "Unknown"
+                  "Date Of Death": "Unknown",
+                  "Husband": "K.M. Iype",
+                  "DoD": "Unknown"
                 },
                 "children": null
               },
@@ -4156,7 +4160,9 @@
                 "name": "Annamma Daniel (Thankamma)",
                 "attributes": {
                   "Date Of Birth": "Unknown",
-                  "Date Of Death": "Unknown"
+                  "Date Of Death": "Unknown",
+                  "Husband": "J.P. Jacob",
+                  "DoD": "Unknown"
                 },
                 "children": null
               },
@@ -4164,7 +4170,9 @@
                 "name": "Chinnamma Daniel",
                 "attributes": {
                   "Date Of Birth": "1917",
-                  "Date Of Death": "08.10.2001"
+                  "Date Of Death": "08.10.2001",
+                  "Husband": "P. C. Mathew",
+                  "DoD": "Unknown"
                 },
                 "children": null
               },
@@ -4172,7 +4180,9 @@
                 "name": "Ponnamma Daniel",
                 "attributes": {
                   "Date Of Birth": "1921",
-                  "Date Of Death": "00.07.2016"
+                  "Date Of Death": "00.07.2016",
+                  "Husband": "Alexander (Baby)",
+                  "DoD": "Unknown"
                 },
                 "children": null
               },
@@ -4180,7 +4190,9 @@
                 "name": "Saramma Daniel",
                 "attributes": {
                   "Date Of Birth": "Unknown",
-                  "Date Of Death": "Unknown"
+                  "Date Of Death": "Unknown",
+                  "Husband": "Kunjunju",
+                  "DoD": "Unknown"
                 },
                 "children": null
               },
@@ -4188,7 +4200,9 @@
                 "name": "Ammini Daniel",
                 "attributes": {
                   "Date Of Birth": "Unknown",
-                  "Date Of Death": "15.02.2005"
+                  "Date Of Death": "15.02.2005",
+                  "Husband": "M.M. George",
+                  "DoD": "09.06.1972"
                 },
                 "children": null
               },
@@ -4196,7 +4210,9 @@
                 "name": "George M. Daniel (Thankachen)",
                 "attributes": {
                   "Date Of Birth": "11.05.1924",
-                  "Date Of Death": "22.07.1999"
+                  "Date Of Death": "22.07.1999",
+                  "Wife": "Achamma",
+                  "DoD": "02.03.2020"
                 },
                 "children": [
                   {
@@ -4229,14 +4245,17 @@
                 "name": "Issac M. Daniel (kunjumon)",
                 "attributes": {
                   "Date Of Birth": "1927",
-                  "Date Of Death": "30.04.1998"
+                  "Date Of Death": "30.04.1998",
+                  "Wife": "Unmarried"
                 },
                 "children": null
               },
               {
                 "name": "Zac Daniel (Raju)",
                 "attributes": {
-                  "Date Of Birth": "21.06.1930"
+                  "Date Of Birth": "21.06.1930",
+                  "DoD": "09.11.2023",
+                  "Wife": "Mabel (died on 07.11.2025)"
                 },
                 "children": [
                   {

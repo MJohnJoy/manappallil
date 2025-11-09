@@ -3999,7 +3999,9 @@
                 "name": "Thankamma Jacob",
                 "attributes": {
                   "Date Of Birth": "09.07.1912",
-                  "Date Of Death": "10.05.1981"
+                  "Date Of Death": "10.05.1981",
+                  "Husband": "Kochummen",
+                  "DoD": "Unknown"
                 },
                 "children": null
               },
@@ -4032,7 +4034,8 @@
                       {
                         "name": "Roshan Roy",
                         "attributes": {
-                          "Date Of Birth": "06.02.1974"
+                          "Date Of Birth": "06.02.1974",
+                          "Husband": "James Strong"
                         },
                         "children": null
                       },
@@ -4058,14 +4061,15 @@
                     "attributes": {
                       "Date Of Birth": "02.05.1856",
                       "Husband": "Thampi",
-                      "Died on": ""
+                      "Died on": "Unknown"
                     },
                     "children": null
                   },
                   {
                     "name": "Roni Thomas (Monachen)",
                     "attributes": {
-                      "Date Of Birth": "23.05.1960"
+                      "Date Of Birth": "23.05.1960",
+                      "Wife": "Selvi"
                     },
                     "children": [
                       {
@@ -4087,13 +4091,15 @@
                   {
                     "name": "Robby Thomas (Kunju)",
                     "attributes": {
-                      "Date Of Birth": "30.05.1965"
+                      "Date Of Birth": "30.05.1965",
+                      "Wife": "Annamma (Bincy)"
                     },
                     "children": [
                       {
                         "name": "Robin Robby Manappallil",
                         "attributes": {
-                          "Date Of Birth": "21.10.1993"
+                          "Date Of Birth": "21.10.1993",
+                          "Wife": "Meriya E. Cherian"
                         },
                         "children": [
                           {
@@ -4121,7 +4127,8 @@
                 "name": "Ruth Jacob (Baby)",
                 "attributes": {
                   "Date Of Birth": "18.02.1924",
-                  "Date Of Death": "13.12.2010"
+                  "Date Of Death": "13.12.2010",
+                  "Husband": "C.K. Cherian"
                 },
                 "children": null
               }
@@ -4324,7 +4331,8 @@
                       {
                         "name": "M. J. Varghese (Anil)",
                         "attributes": {
-                          "Date Of Birth": "30.04.1972"
+                          "Date Of Birth": "30.04.1972",
+                          "Wife": "Dimple"
                         },
                         "children": [
                           {
@@ -4339,14 +4347,16 @@
                       {
                         "name": "M. J. Mariamma",
                         "attributes": {
-                          "Date Of Birth": "06.09.1974"
+                          "Date Of Birth": "06.09.1974",
+                          "Husband": "Jose"
                         },
                         "children": null
                       },
                       {
                         "name": "Arun Varghese (Appu)",
                         "attributes": {
-                          "Date Of Birth": "07.05.1976"
+                          "Date Of Birth": "07.05.1976",
+                          "Wife": "Anna Itty"
                         },
                         "children": [
                           {

@@ -2070,7 +2070,8 @@
                       {
                         "name": "George John (Shaji)",
                         "attributes": {
-                          "Date of birth": "14.01.1964"
+                          "Date of birth": "14.01.1964",
+                          "Wife": "Sunu"
                         },
                         "children": [
                           {
@@ -2092,7 +2093,8 @@
                       {
                         "name": "Sheela George",
                         "attributes": {
-                          "Date of birth": "Unknown"
+                          "Date of birth": "Unknown",
+                          "Husband": "Shaji Mathew"
                         },
                         "children": null
                       }
@@ -2120,14 +2122,16 @@
                       {
                         "name": "Annie John (Raemol)",
                         "attributes": {
-                          "Date of birth": "20.12.1959"
+                          "Date of birth": "20.12.1959",
+                          "Husband": "Dr. V.C. Alexander"
                         },
                         "children": null
                       },
                       {
                         "name": "Roji John",
                         "attributes": {
-                          "Date of birth": "25.06.1963"
+                          "Date of birth": "25.06.1963",
+                          "Husband": "Reji"
                         },
                         "children": null
                       },
@@ -2135,21 +2139,24 @@
                         "name": "Reeja John",
                         "attributes": {
                           "Date of birth": "19.03.1967",
-                          "Date of death": "18.04.1994"
+                          "Date of death": "18.04.1994",
+                          "Husband": "Suresh"
                         },
                         "children": null
                       },
                       {
                         "name": "Renu John",
                         "attributes": {
-                          "Date of birth": "25.02.1969"
+                          "Date of birth": "25.02.1969",
+                          "Husband": "Renji Joseph"
                         },
                         "children": null
                       },
                       {
                         "name": "Ranjini John",
                         "attributes": {
-                          "Date of birth": "01.10.1974"
+                          "Date of birth": "01.10.1974",
+                          "Husband": "Chackochen"
                         },
                         "children": null
                       }
@@ -2174,7 +2181,8 @@
                       {
                         "name": "Deepak George Thomas",
                         "attributes": {
-                          "Date of birth": "24.02.1965"
+                          "Date of birth": "24.02.1965",
+                          "Wife": "Dr. Minu"
                         },
                         "children": [
                           {
@@ -2208,21 +2216,24 @@
                       {
                         "name": "Anjani Thomas",
                         "attributes": {
-                          "Date of birth": "24.08.1974"
+                          "Date of birth": "24.08.1974",
+                          "Husband": "George V. George (Binu)"
                         },
                         "children": null
                       },
                       {
                         "name": "Anila Thomas",
                         "attributes": {
-                          "Date of birth": "17.04.1977"
+                          "Date of birth": "17.04.1977",
+                          "Husband": "Joju"
                         },
                         "children": null
                       },
                       {
                         "name": "Ajith Thomas",
                         "attributes": {
-                          "Date of birth": "19.05.1981"
+                          "Date of birth": "19.05.1981",
+                          "Wife": "Miriam (Remya)"
                         },
                         "children": [
                           {
@@ -2246,14 +2257,16 @@
                       {
                         "name": "Hima Mohan Daniel",
                         "attributes": {
-                          "Date Of Birth": "06.04.1975"
+                          "Date Of Birth": "06.04.1975",
+                          "Husband": "George John (Tinku)"
                         },
                         "children": null
                       },
                       {
                         "name": "Thomas M. Thomas (Midhin)",
                         "attributes": {
-                          "Date Of Birth": "18.12.1982"
+                          "Date Of Birth": "18.12.1982",
+                          "Wife": "Meena"
                         },
                         "children": [
                           {
@@ -2333,7 +2346,8 @@
                       {
                         "name": "Sudeep John",
                         "attributes": {
-                          "Date Of Birth": "21.09.1959"
+                          "Date Of Birth": "21.09.1959",
+                          "Wife": "Deepa Elizabeth"
                         },
                         "children": [
                           {
@@ -2355,14 +2369,16 @@
                       {
                         "name": "Bindhu John",
                         "attributes": {
-                          "Date Of Birth": "25.02.1971"
+                          "Date Of Birth": "25.02.1971",
+                          "Husband": "Shaji Varghese"
                         },
                         "children": null
                       },
                       {
                         "name": "Sreya John",
                         "attributes": {
-                          "Date Of Birth": "16.04.1974"
+                          "Date Of Birth": "16.04.1974",
+                          "Husband": "V.A. Punnen (Babu)"
                         },
                         "children": null
                       }
@@ -2371,7 +2387,9 @@
                   {
                     "name": "Susan John (Santhamma)",
                     "attributes": {
-                      "Date Of Birth": "13.10.1941"
+                      "Date Of Birth": "13.10.1941",
+                      "Husband": "Geevarghese Thomas (Thambu)",
+                      "DoD": "00.00.2006"
                     },
                     "children": null
                   }
@@ -2397,7 +2415,8 @@
                       {
                         "name": "John C. Jacob (Joji)",
                         "attributes": {
-                          "Date Of Birth": "01.12.1959"
+                          "Date Of Birth": "01.12.1959",
+                          "Wife": "Mariamma (Valsa)"
                         },
                         "children": [
                           {
@@ -2435,7 +2454,8 @@
                       {
                         "name": "John C. Oommen (Geemon)",
                         "attributes": {
-                          "Date Of Birth": "18.07.1961"
+                          "Date Of Birth": "18.07.1961",
+                          "Wife": "Beena (Bini)"
                         },
                         "children": [
                           {
@@ -2450,7 +2470,8 @@
                       {
                         "name": "John C. George (Jayan)",
                         "attributes": {
-                          "Date Of Birth": "30.07.1963"
+                          "Date Of Birth": "30.07.1963",
+                          "Wife": "Shini (Bindhu)"
                         },
                         "children": [
                           {
@@ -2465,14 +2486,17 @@
                       {
                         "name": "Jyothi John",
                         "attributes": {
-                          "Date Of Birth": "28.10.1965"
+                          "Date Of Birth": "28.10.1965",
+                          "Husband": "Daniel (Aniyankunju)",
+                          "DoD": "Unknown"
                         },
                         "children": null
                       },
                       {
                         "name": "John C. Abraham (Jibu)",
                         "attributes": {
-                          "Date Of Birth": "21.11.1967"
+                          "Date Of Birth": "21.11.1967",
+                          "Wife": "Ushan"
                         },
                         "children": [
                           {
@@ -2511,14 +2535,16 @@
                       {
                         "name": "Reeds Brooklyn Doyle (Rowel)",
                         "attributes": {
-                          "Date Of Birth": "10.02.1981"
+                          "Date Of Birth": "10.02.1981",
+                          "Wife": "Tresia (Midhu)"
                         },
                         "children": null
                       },
                       {
                         "name": "Ruth Francina Doyle (Rowena)",
                         "attributes": {
-                          "Date Of Birth": "12.01.1986"
+                          "Date Of Birth": "12.01.1986",
+                          "Husband": "Varghese Antony"
                         },
                         "children": null
                       }
@@ -2540,14 +2566,16 @@
                       {
                         "name": "Abi J. Thomas",
                         "attributes": {
-                          "Date Of Birth": "26.01.1979"
+                          "Date Of Birth": "26.01.1979",
+                          "Husband": "Reji K. Abraham"
                         },
                         "children": null
                       },
                       {
                         "name": "Obi J. Thomas",
                         "attributes": {
-                          "Date Of Birth": "30.11.1980"
+                          "Date Of Birth": "30.11.1980",
+                          "Husband": "Biju"
                         },
                         "children": null
                       },
@@ -2576,7 +2604,8 @@
                       {
                         "name": "Sanish Jacob Sam",
                         "attributes": {
-                          "Date Of Birth": "28.03.1989"
+                          "Date Of Birth": "28.03.1989",
+                          "Wife": "Rubi"
                         },
                         "children": null
                       },

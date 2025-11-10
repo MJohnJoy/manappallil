@@ -2720,7 +2720,8 @@
                   {
                     "name": "John Abraham (Vinayan)",
                     "attributes": {
-                      "Date Of Birth": "25.08.1947"
+                      "Date Of Birth": "25.08.1947",
+                      "Wife": "Annie"
                     },
                     "children": [
                       {
@@ -2751,7 +2752,8 @@
                     "name": "Jacob Abraham (Vijayan)",
                     "attributes": {
                       "Date Of Birth": "09.03.1950",
-                      "Date Of Death": "11.05.2005"
+                      "Date Of Death": "11.05.2005",
+                      "Wife": "Elizabeth (Santhamma)"
                     },
                     "children": [
                       {
@@ -2788,7 +2790,8 @@
                   {
                     "name": "P. A. Abraham (Victor)",
                     "attributes": {
-                      "Date Of Birth": "30.05.1951"
+                      "Date Of Birth": "30.05.1951",
+                      "Wife": "Laly"
                     },
                     "children": [
                       {
@@ -2810,7 +2813,8 @@
                   {
                     "name": "Thomas Abraham (Vimalan)",
                     "attributes": {
-                      "Date Of Birth": "22.07.1953"
+                      "Date Of Birth": "22.07.1953",
+                      "Wife": "Suja"
                     },
                     "children": [
                       {
@@ -2833,14 +2837,17 @@
                     "name": "Daniel Abraham (Vidhu)",
                     "attributes": {
                       "Date Of Birth": "1955",
-                      "Date Of Death": "10.08.1980"
+                      "Date Of Death": "10.08.1980",
+                      "Wife": "Unmarried"
                     },
                     "children": null
                   },
                   {
                     "name": "Susan Abraham (Vinod)",
                     "attributes": {
-                      "Date Of Birth": "23.02.1962"
+                      "Date Of Birth": "23.02.1962",
+                      "Husband": "Soman P. Oommen",
+                      "DoD": "04.11.1998"
                     },
                     "children": null
                   }
@@ -2858,7 +2865,8 @@
                   {
                     "name": "John Daniel (Johnykutty)",
                     "attributes": {
-                      "Date Of Birth": "19.04.1951"
+                      "Date Of Birth": "19.04.1951",
+                      "Wife": "Gracy"
                     },
                     "children": [
                       {
@@ -2910,21 +2918,24 @@
                   {
                     "name": "Annie Daniel",
                     "attributes": {
-                      "Date Of Birth": "01.06.1956"
+                      "Date Of Birth": "01.06.1956",
+                      "Husband": "Jacob Varghese (Rajan)"
                     },
                     "children": null
                   },
                   {
                     "name": "Lissy Daniel",
                     "attributes": {
-                      "Date Of Birth": "25.06.1958"
+                      "Date Of Birth": "25.06.1958",
+                      "Husband": "George Varghese (sunny)"
                     },
                     "children": null
                   },
                   {
                     "name": "Cissy Daniel",
                     "attributes": {
-                      "Date Of Birth": "15.04.1960"
+                      "Date Of Birth": "15.04.1960",
+                      "Husband": "E.P. Johnson (Aniyankunju)"
                     },
                     "children": null
                   }

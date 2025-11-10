@@ -2062,7 +2062,9 @@
                     "name": "P. George John (Kunjujukutty)",
                     "attributes": {
                       "Date of birth": "1926",
-                      "Date of death": "26.05.1994"
+                      "Date of death": "26.05.1994",
+                      "Wife": "Annamma",
+                      "DoD": "05.02.2015"
                     },
                     "children": [
                       {
@@ -2111,7 +2113,8 @@
                     "name": "John Thomas (Raju)",
                     "attributes": {
                       "Date of birth": "18.03.1928",
-                      "Date of death": "18.04.1994"
+                      "Date of death": "18.04.1994",
+                      "Wife": "Ramani"
                     },
                     "children": [
                       {
@@ -2156,14 +2159,16 @@
                     "name": "Alice Thomas",
                     "attributes": {
                       "Date of birth": "17.09.1931",
-                      "Date of death": "27.12.2023"
+                      "Date of death": "27.12.2023",
+                      "Husband": "Joy"
                     },
                     "children": null
                   },
                   {
                     "name": "George Thomas (Victor)",
                     "attributes": {
-                      "Date of birth": "01.11.1933"
+                      "Date of birth": "01.11.1933",
+                      "Wife": "Mary (Ammini)"
                     },
                     "children": [
                       {
@@ -2186,7 +2191,9 @@
                   {
                     "name": "Elizabeth Thomas (Molly)",
                     "attributes": {
-                      "Date of birth": "21.09.1934"
+                      "Date of birth": "21.09.1934",
+                      "Husband": "K.V. George (Joykutty)",
+                      "DoD": "13.07.2019"
                     },
                     "children": null
                   },
@@ -2194,7 +2201,8 @@
                     "name": "T. M. Thomas (Bijoy)",
                     "attributes": {
                       "Date of birth": "18.04.1941",
-                      "Date of Death": "18.07.2008"
+                      "Date of Death": "18.07.2008",
+                      "Wife": "Elsi"
                     },
                     "children": [
                       {
@@ -2231,7 +2239,8 @@
                   {
                     "name": "Mohan D. Thomas",
                     "attributes": {
-                      "Date Of Birth": "23.11.1946"
+                      "Date Of Birth": "23.11.1946",
+                      "Wife": "Susi"
                     },
                     "children": [
                       {
@@ -2280,7 +2289,9 @@
                     "name": "Mary John (Ponnamma)",
                     "attributes": {
                       "Date Of Birth": "21.12.1927",
-                      "Date Of Death": "03.03.1985"
+                      "Date Of Death": "03.03.1985",
+                      "Husband": "P.V. Alexander (Kunju)",
+                      "DoD": "Unknown"
                     },
                     "children": null
                   },
@@ -2288,7 +2299,8 @@
                     "name": "Deenamma John (Lucy)",
                     "attributes": {
                       "Date Of Birth": "28.03.1931",
-                      "Date Of Death": "06.08.2016"
+                      "Date Of Death": "06.08.2016",
+                      "Husband": "P.I. Alexander (Aachenkunju)"
                     },
                     "children": null
                   },
@@ -2296,14 +2308,17 @@
                     "name": "Elizabeth John (Elsi)",
                     "attributes": {
                       "Date Of Birth": "26.12.1932",
-                      "Date of death": "13.01.2018"
+                      "Date of death": "13.01.2018",
+                      "Husband": "K.K. Mathai (Mathachen)"
                     },
                     "children": null
                   },
                   {
                     "name": "Leela John",
                     "attributes": {
-                      "Date Of Birth": "03.06.1934"
+                      "Date Of Birth": "03.06.1934",
+                      "Husband": "K.C. Mathew (Thampan)",
+                      "DoD": "19.01.2010"
                     },
                     "children": null
                   },
@@ -2311,7 +2326,8 @@
                     "name": "Roy John",
                     "attributes": {
                       "Date Of Birth": "13.11.1939",
-                      "Date Of Death": "06.12.1991"
+                      "Date Of Death": "06.12.1991",
+                      "Wife": "Aliyamma (Mani)"
                     },
                     "children": [
                       {

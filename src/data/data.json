@@ -2409,7 +2409,9 @@
                     "name": "P. C. John (Joy)",
                     "attributes": {
                       "Date Of Birth": "06.09.1931",
-                      "Date Of Death": "21.09.1994"
+                      "Date Of Death": "21.09.1994",
+                      "Wife": "Gracy",
+                      "DoD": "24.08.2021"
                     },
                     "children": [
                       {
@@ -2521,7 +2523,9 @@
                     "name": "Ammini Jacob",
                     "attributes": {
                       "Date Of Birth": "Unknown",
-                      "Date Of Death": "30.12.1983"
+                      "Date Of Death": "30.12.1983",
+                      "Husband": "T.C. George",
+                      "DoD": "14.11.1984"
                     },
                     "children": null
                   },
@@ -2529,7 +2533,8 @@
                     "name": "M. J. Raju",
                     "attributes": {
                       "Date Of Birth": "10.09.1939",
-                      "Date Of Death": "22.08.2014"
+                      "Date Of Death": "22.08.2014",
+                      "Wife": "Silvi (Jessy)"
                     },
                     "children": [
                       {
@@ -2553,14 +2558,16 @@
                   {
                     "name": "Susan Jacob (Kunjumol)",
                     "attributes": {
-                      "Date Of Birth": "19.09.1945"
+                      "Date Of Birth": "19.09.1945",
+                      "Husband": "P.M. Abraham"
                     },
                     "children": null
                   },
                   {
                     "name": "M. J. Babu",
                     "attributes": {
-                      "Date Of Birth": "18.06.1948"
+                      "Date Of Birth": "18.06.1948",
+                      "Wife": "Mariamma (Ammini)"
                     },
                     "children": [
                       {
@@ -2591,7 +2598,8 @@
                   {
                     "name": "M. J. Sam (Samkutty)",
                     "attributes": {
-                      "Date Of Birth": "12.05.1952"
+                      "Date Of Birth": "12.05.1952",
+                      "Wife": "Mariamma (Santhamma)"
                     },
                     "children": [
                       {
@@ -2621,7 +2629,8 @@
                   {
                     "name": "Annie Jacob",
                     "attributes": {
-                      "Date Of Birth": "Unknown"
+                      "Date Of Birth": "Unknown",
+                      "Husband": "Arun Sunder Raj"
                     },
                     "children": null
                   }
@@ -2639,28 +2648,34 @@
                   {
                     "name": "Glory Zachariah",
                     "attributes": {
-                      "Date Of Birth": "15.10.1937"
+                      "Date Of Birth": "15.10.1937",
+                      "Husband": "M.E. George",
+                      "DoD": "00.00.2006"
                     },
                     "children": null
                   },
                   {
                     "name": "Omana Zachariah",
                     "attributes": {
-                      "Date Of Birth": "10.11.1938"
+                      "Date Of Birth": "10.11.1938",
+                      "Husband": "K.T. Thomas (Bavachen)",
+                      "DoD": "16.11.2007"
                     },
                     "children": null
                   },
                   {
-                    "name": "Santhi Zachariah (Susan)",
+                    "name": "Santhi Zachariah (Elizabeth)",
                     "attributes": {
-                      "Date Of Birth": "22.06.1945"
+                      "Date Of Birth": "22.06.1945",
+                      "Husband": "Mathew Eapen (Aachenkunju)"
                     },
                     "children": null
                   },
                   {
                     "name": "Mary  Zachariah (Kunjumol)",
                     "attributes": {
-                      "Date Of Birth": "21.05.1948"
+                      "Date Of Birth": "21.05.1948",
+                      "Husband": "A.V. Kurien (Kunju)"
                     },
                     "children": null
                   },
@@ -2675,7 +2690,9 @@
                   {
                     "name": "Sheelu Zachariah",
                     "attributes": {
-                      "Date Of Birth": "15.02.1958"
+                      "Date Of Birth": "15.02.1958",
+                      "Husband": "Abraham Varghese (Avarachen)",
+                      "DoD": "04.12.2024"
                     },
                     "children": null
                   }

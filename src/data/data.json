@@ -286,14 +286,17 @@
             "attributes": {
               "Date Of Birth": "Unknown",
               "Date Of Death": "Unknown",
-              "Wife": "Mariamma"
+              "Wife": "Mariamma",
+              "Dod": "Unknown"
             },
             "children": [
               {
                 "name": "Aleyamma Tommy",
                 "attributes": {
                   "Date Of Birth": "Unknown",
-                  "Date Of Death": "Unknown"
+                  "Date Of Death": "Unknown",
+                  "Husband": "Gheevarghese",
+                  "DoD": "Unknown"
                 },
                 "children": null
               },
@@ -301,7 +304,9 @@
                 "name": "Kunjamma Tommy",
                 "attributes": {
                   "Date Of Birth": "Unknown",
-                  "Date Of Death": "Unknown"
+                  "Date Of Death": "Unknown",
+                  "Husband": "Mathai",
+                  "DoD": "Unknown"
                 },
                 "children": null
               },
@@ -309,7 +314,9 @@
                 "name": "Aachiamma Tommy",
                 "attributes": {
                   "Date Of Birth": "Unknown",
-                  "Date Of Death": "Unknown"
+                  "Date Of Death": "Unknown",
+                  "Husband": "Pappy",
+                  "DoD": "Unknown"
                 },
                 "children": null
               },
@@ -317,7 +324,9 @@
                 "name": "Rachel Tommy",
                 "attributes": {
                   "Date Of Birth": "Unknown",
-                  "Date Of Death": "Unknown"
+                  "Date Of Death": "Unknown",
+                  "Husband": "Unnunni",
+                  "DoD": "Unknown"
                 },
                 "children": null
               },
@@ -325,14 +334,18 @@
                 "name": "Geevarghese Tommy (Unnunni)",
                 "attributes": {
                   "Date Of Birth": "Unknown",
-                  "Date Of Death": "Unknown"
+                  "Date Of Death": "Unknown",
+                  "Wife1": "Chinnamma (DoD - unknown)",
+                  "Wife2": "Sosamma (DoD - Unknown)"
                 },
                 "children": [
                   {
                     "name": "M. G. Thomas (Thankachen)",
                     "attributes": {
                       "Date of Birth": "1926",
-                      "Date of Death": "05.08.1999"
+                      "Date of Death": "05.08.1999",
+                      "Wife": "Kunjamma",
+                      "DoD": "18.07.2025"
                     },
                     "children": [
                       {
@@ -437,14 +450,17 @@
                   {
                     "name": "M. G. Ammini",
                     "attributes": {
-                      "Date of Birth": "Unknown"
+                      "Date of Birth": "Unknown",
+                      "Husband": "Kunjukutty"
                     },
                     "children": null
                   },
                   {
                     "name": "M. G. Raju",
                     "attributes": {
-                      "Date of birth": "Unknown"
+                      "Date of birth": "Unknown",
+                      "DoD": "05.04.2000",
+                      "Wife": "Mariamma"
                     },
                     "children": [
                       {
@@ -517,7 +533,8 @@
                   {
                     "name": "M. G. Marykutty",
                     "attributes": {
-                      "Date of birth": "Unknown"
+                      "Date of birth": "Unknown",
+                      "Husband": "Abraham"
                     },
                     "children": null
                   }
@@ -527,14 +544,17 @@
                 "name": "Samuel Tommy (Unnunni)",
                 "attributes": {
                   "Date Of Birth": "Unknown",
-                  "Date Of Death": "1971"
+                  "Date Of Death": "1971",
+                  "Wife1": "Sosamma (DoD - Unknown)",
+                  "Wife2": "Thankamma (DoD - Unknown)"
                 },
                 "children": [
                   {
                     "name": "Kunjujamma Samuel",
                     "attributes": {
                       "Date of birth": "Unknown",
-                      "Date of death": "Unknown"
+                      "Date of death": "Unknown",
+                      "Husband": "Kunjumon (DoD - Unknown)"
                     },
                     "children": null
                   },
@@ -542,21 +562,24 @@
                     "name": "Thankamma Samuel",
                     "attributes": {
                       "Date of birth": "Unknown",
-                      "Date of death": "Unknown"
+                      "Date of death": "Unknown",
+                      "Husband": "Zachariah"
                     },
                     "children": null
                   },
                   {
                     "name": "Pennamma Samuel",
                     "attributes": {
-                      "Date of birth": "Unknown"
+                      "Date of birth": "Unknown",
+                      "Husband": "Samuelkutty"
                     },
                     "children": null
                   },
                   {
                     "name": "S. Babu (Baby)",
                     "attributes": {
-                      "Date of birth": "Unknown"
+                      "Date of birth": "Unknown",
+                      "Wife": "Susan"
                     },
                     "children": [
                       {
@@ -581,20 +604,24 @@
                 "name": "Abraham Tommy",
                 "attributes": {
                   "Date Of Birth": "Unknown",
-                  "Date Of Death": "Unknown"
+                  "Date Of Death": "UnknTown",
+                  "Wife": "Marykutty (DoD - Unknown)"
                 },
                 "children": [
                   {
                     "name": "T. Lillikutty",
                     "attributes": {
-                      "Date Of Birth": "Unknown"
+                      "Date Of Birth": "Unknown",
+                      "Husband": "Varghese (DoD - Unknown)"
                     },
                     "children": null
                   },
                   {
                     "name": "T. Thomas (Thampy)",
                     "attributes": {
-                      "Date Of Birth": "27.12.1949"
+                      "Date Of Birth": "27.12.1949",
+                      "Wife": "Mariamma",
+                      "DoD": "Unknown"
                     },
                     "children": [
                       {
@@ -617,7 +644,8 @@
                     "name": "T. Baby",
                     "attributes": {
                       "Date Of Birth": "Unknown",
-                      "Date of death": "00.08.2009"
+                      "Date of death": "00.08.2009",
+                      "Wife": "Elizabeth"
                     },
                     "children": [
                       {
@@ -639,7 +667,9 @@
                   {
                     "name": "T. Babu Abraham",
                     "attributes": {
-                      "Date Of Birth": "Unknown"
+                      "Date Of Birth": "00.00.1955",
+                      "DoD": "03.04.2024",
+                      "Wife": "Gracy"
                     },
                     "children": [
                       {
@@ -667,7 +697,8 @@
             "attributes": {
               "Date Of Birth": "Unknown",
               "Date Of Death": "Unknown",
-              "Wife": "Late Saramma"
+              "Wife": "Late Saramma",
+              "DoD": "Unknown"
             },
             "children": [
               {

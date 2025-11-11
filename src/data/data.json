@@ -351,13 +351,15 @@
                       {
                         "name": "K. T. George",
                         "attributes": {
-                          "Date Of Birth": "16.05.1949"
+                          "Date Of Birth": "16.05.1949",
+                          "Wife": "Gracy"
                         },
                         "children": [
                           {
                             "name": "Joji P. George",
                             "attributes": {
-                              "Date of Birth": "18.01.1983"
+                              "Date of Birth": "18.01.1983",
+                              "Wife": "Bindhu"
                             },
                             "children": [
                               {
@@ -372,7 +374,8 @@
                           {
                             "name": "Jiji George",
                             "attributes": {
-                              "Date of Birth": "15.05.1984"
+                              "Date of Birth": "15.05.1984",
+                              "Husband": "Tony P. Chacko"
                             },
                             "children": null
                           }
@@ -381,7 +384,8 @@
                       {
                         "name": "K. T. Chinnamma",
                         "attributes": {
-                          "Date Of Birth": "1956"
+                          "Date Of Birth": "1956",
+                          "Husband": "M. Babu"
                         },
                         "children": null
                       },
@@ -389,7 +393,8 @@
                         "name": "K. T. Jacob (Monachen)",
                         "attributes": {
                           "Date Of Birth": "05.05.1959",
-                          "Date Of Death": "12.03.2014"
+                          "Date Of Death": "12.03.2014",
+                          "Wife": "Sheela"
                         },
                         "children": [
                           {
@@ -411,7 +416,9 @@
                       {
                         "name": "K. T. Daniel",
                         "attributes": {
-                          "Date Of Birth": "02.02.1961"
+                          "Date Of Birth": "02.02.1961",
+                          "Wife": "Usha",
+                          "DoD": "09.11.2023"
                         },
                         "children": [
                           {
@@ -426,7 +433,8 @@
                       {
                         "name": "K. T. Yohannan (Biju)",
                         "attributes": {
-                          "Date Of Birth": "20.05.1974"
+                          "Date Of Birth": "20.05.1974",
+                          "Wife": "Manju"
                         },
                         "children": [
                           {
@@ -466,7 +474,8 @@
                       {
                         "name": "Jose Raju (kuttappan)",
                         "attributes": {
-                          "Date Of Birth": "Unknown"
+                          "Date Of Birth": "Unknown",
+                          "Wife": "Jessy"
                         },
                         "children": [
                           {
@@ -488,21 +497,24 @@
                       {
                         "name": "Kunjumol Raju",
                         "attributes": {
-                          "Date of Birth": "Unknown"
+                          "Date of Birth": "Unknown",
+                          "Husband": "Alphonse"
                         },
                         "children": null
                       },
                       {
                         "name": "Susamma Raju",
                         "attributes": {
-                          "Date of Birth": "Unknown"
+                          "Date of Birth": "Unknown",
+                          "Husband": "Ninan"
                         },
                         "children": null
                       },
                       {
                         "name": "Thampy Raju (Thomaskutty)",
                         "attributes": {
-                          "Date of Birth": "Unknown"
+                          "Date of Birth": "Unknown",
+                          "Wife": "Leena"
                         },
                         "children": [
                           {
@@ -524,7 +536,8 @@
                       {
                         "name": "Sheela Raju",
                         "attributes": {
-                          "Date of Birth": "Unknown"
+                          "Date of Birth": "Unknown",
+                          "Husband": "James"
                         },
                         "children": null
                       }
@@ -585,14 +598,16 @@
                       {
                         "name": "Sam Babu",
                         "attributes": {
-                          "Date of Birth": "19.06.1978"
+                          "Date of Birth": "19.06.1978",
+                          "Wife": "Mrdula"
                         },
                         "children": null
                       },
                       {
                         "name": "Suresh Babu",
                         "attributes": {
-                          "Date of Birth": "30.04.1981"
+                          "Date of Birth": "30.04.1981",
+                          "Wife": "Stella"
                         },
                         "children": null
                       }
@@ -627,14 +642,16 @@
                       {
                         "name": "Santhosh Thomas (Sanju)",
                         "attributes": {
-                          "Date of Birth": "17.12.1977"
+                          "Date of Birth": "17.12.1977",
+                          "Wife": "Milli Mariam Mathew"
                         },
                         "children": null
                       },
                       {
                         "name": "Sajan Thomas (Saji)",
                         "attributes": {
-                          "Date of Birth": "21.08.1979"
+                          "Date of Birth": "21.08.1979",
+                          "Wife": "Rincy Thomas"
                         },
                         "children": null
                       }
@@ -651,14 +668,15 @@
                       {
                         "name": "Abraham John (Biju)",
                         "attributes": {
-                          "Date of Birth": "27.11.1981"
+                          "Date of Birth": "27.11.1981",
+                          "Wife": "Bincy"
                         },
                         "children": null
                       },
                       {
-                        "name": "John Baby (Paul)",
+                        "name": "Paul John",
                         "attributes": {
-                          "Date of Birth": "Unknown"
+                          "Date of Birth": "01.06.1987"
                         },
                         "children": null
                       }

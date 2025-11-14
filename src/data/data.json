@@ -1177,7 +1177,8 @@
                       {
                         "name": "Mathew Varghese",
                         "attributes": {
-                          "Date of Birth": "Unknown"
+                          "Date of Birth": "Unknown",
+                          "Wife": "Leena"
                         },
                         "children": [
                           {
@@ -1192,7 +1193,8 @@
                       {
                         "name": "Sinu Varghese",
                         "attributes": {
-                          "Date of Birth": "Unknown"
+                          "Date of Birth": "Unknown",
+                          "Husband": "Saji"
                         },
                         "children": null
                       }
@@ -1204,7 +1206,9 @@
                 "name": "M. C. Varghese (Kochukunju)",
                 "attributes": {
                   "Date of Birth": "Unknown",
-                  "Date of death": "Unknown"
+                  "Date of death": "27.06.1980",
+                  "Wife": "Mariamma (Chinnamma)",
+                  "DoD": "01.03.2000"
                 },
                 "children": [
                   {
@@ -1540,7 +1544,8 @@
                 "name": "M. C. Daniel",
                 "attributes": {
                   "Date of birth": "1900",
-                  "Date of death": "1968"
+                  "Date of death": "1968",
+                  "Wife": "Pennamma (DoD-00.00.1983)"
                 },
                 "children": [
                   {
@@ -1735,7 +1740,8 @@
                 "name": "M. C. Saramma",
                 "attributes": {
                   "Date of birth": "Unknown",
-                  "Date of death": "09.07.1987"
+                  "Date of death": "09.07.1987",
+                  "Husband": "Thomas (Dod-22.09.1962)"
                 },
                 "children": null
               },
@@ -1743,7 +1749,8 @@
                 "name": "M. C. Chacko (Kunjukutty)",
                 "attributes": {
                   "Date of birth": "1905",
-                  "Date of death": "28.03.1970"
+                  "Date of death": "28.03.1970",
+                  "Wife": "Chinnamma (Dod-28.03.1970)"
                 },
                 "children": [
                   {
@@ -1956,7 +1963,8 @@
                 "name": "M. C. Mathen (Kunju)",
                 "attributes": {
                   "Date Of Birth": "Unknown",
-                  "Date Of Death": "Unknown"
+                  "Date Of Death": "Unknown",
+                  "Wife": "Mariamma (Dod-05.04.2009)"
                 },
                 "children": [
                   {
@@ -2018,7 +2026,8 @@
                 "name": "M. C. Easow (Easowkochu)",
                 "attributes": {
                   "Date Of Birth": "08.08.1984",
-                  "Date Of Death": "05.08.1984"
+                  "Date Of Death": "05.08.1984",
+                  "Wife": "Thankamma (DoD-Unknown)"
                 },
                 "children": [
                   {
@@ -2041,7 +2050,8 @@
                 "name": "M. C. Varghese (Podikochu)",
                 "attributes": {
                   "Date Of Birth": "24.12.1911",
-                  "Date Of Death": "24.07.1980"
+                  "Date Of Death": "24.07.1980",
+                  "Wife": "Annamma (Dod-12.10.1996)"
                 },
                 "children": [
                   {

@@ -1100,27 +1100,31 @@
                     "name": "M. M. John (Kunju)",
                     "attributes": {
                       "Date of Birth": "Unknown",
-                      "Date of death": "11.06.2013"
+                      "Date of death": "11.06.2013",
+                      "Wife": "Aleyamma (DoD-Unknown)"
                     },
                     "children": [
                       {
                         "name": "K. J. Sosamma (Kunjumol)",
                         "attributes": {
-                          "Date of Birth": "1959"
+                          "Date of Birth": "1959",
+                          "Husband": "Kuruvilla"
                         },
                         "children": null
                       },
                       {
                         "name": "K. J. Saramma (Alice)",
                         "attributes": {
-                          "Date of Birth": "18.05.196"
+                          "Date of Birth": "18.05.196",
+                          "Husband": "P.C. Jacob (Monachen)"
                         },
                         "children": null
                       },
                       {
                         "name": "K. J. Annamma (Leelamma)",
                         "attributes": {
-                          "Date of Birth": "1963"
+                          "Date of Birth": "1963",
+                          "Husband": "Joy Devasia"
                         },
                         "children": null
                       },
@@ -1134,7 +1138,8 @@
                       {
                         "name": "K. J. Cheriyan (Sunny)",
                         "attributes": {
-                          "Date of Birth": "1967"
+                          "Date of Birth": "1967",
+                          "Wife": "Jayamol"
                         },
                         "children": [
                           {
@@ -1165,7 +1170,8 @@
                   {
                     "name": "M. M. Varghese (Raju)",
                     "attributes": {
-                      "Date of Birth": "Unknown"
+                      "Date of Birth": "Unknown",
+                      "Wife": "Lissy"
                     },
                     "children": [
                       {

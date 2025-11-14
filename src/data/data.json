@@ -845,7 +845,7 @@
                       "Date of Birth": "18.02.1933",
                       "Date of death": "01.09.2000",
                       "Wife": "Gracy",
-                      "DoD": "Unknown"
+                      "DoD": "14.10.2015"
                     },
                     "children": [
                       {
@@ -2840,7 +2840,7 @@
                         "name": "Jibu Abraham Jacob",
                         "attributes": {
                           "Date Of Birth": "02.09.1982",
-                          "Wife": "Alice"
+                          "Wife": ""
                         },
                         "children": [
                           {
@@ -2887,8 +2887,7 @@
                       {
                         "name": "Ancy Anna Abraham",
                         "attributes": {
-                          "Date Of Birth": "25.07.1996",
-                          "Husband": "Prabhu"
+                          "Date Of Birth": "25.07.1996"
                         },
                         "children": null
                       }

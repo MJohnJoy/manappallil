@@ -1608,7 +1608,8 @@
                           {
                             "name": "Irene Mary Byju",
                             "attributes": {
-                              "Date of birth": "03.12.1992"
+                              "Date of birth": "03.12.1992",
+                              "Husband": "Elby Mathew Baby"
                             },
                             "children": null
                           },
@@ -1657,7 +1658,8 @@
                           {
                             "name": "Anoop Shibu Abraham",
                             "attributes": {
-                              "Date of birth": "14.06.1990"
+                              "Date of birth": "14.06.1990",
+                              "Wife": "Ann"
                             },
                             "children": [
                               {
@@ -1672,7 +1674,8 @@
                           {
                             "name": "Anju Mariam Shibu",
                             "attributes": {
-                              "Date of birth": "28.05.1992"
+                              "Date of birth": "28.05.1992",
+                              "Husband": "Sunjo Kuruvilla Varghese"
                             },
                             "children": [
                               {
@@ -1704,7 +1707,8 @@
                           {
                             "name": "Aneesha Shaji",
                             "attributes": {
-                              "Date of birth": "21.09.1996"
+                              "Date of birth": "21.09.1996",
+                              "Husband": ""
                             },
                             "children": null
                           },
@@ -1747,14 +1751,16 @@
                       {
                         "name": "Sini Varghese",
                         "attributes": {
-                          "Date of birth": "Unknown"
+                          "Date of birth": "Unknown",
+                          "Husband": "Saji Alex Paul"
                         },
                         "children": null
                       },
                       {
                         "name": "Digi Varghese",
                         "attributes": {
-                          "Date of birth": "11.01.1975"
+                          "Date of birth": "11.01.1975",
+                          "Husband": "Johnson"
                         },
                         "children": null
                       },
@@ -1798,14 +1804,16 @@
                     "name": "M. C. Varghese (Thampy)",
                     "attributes": {
                       "Date of birth": "1938",
-                      "Date of death": "21.10.2004"
+                      "Date of death": "21.10.2004",
+                      "Wife": "Gracy"
                     },
                     "children": [
                       {
                         "name": "Jacob Varghese (Thomaskutty)",
                         "attributes": {
                           "Date of birth": "19.12.1966",
-                          "Date of death": "12.12.2019"
+                          "Date of death": "12.12.2019",
+                          "Wife": "Unmarried"
                         },
                         "children": null
                       },
@@ -1813,7 +1821,8 @@
                         "name": "Eapen Varghese (kochumon)",
                         "attributes": {
                           "Date of birth": "25.10.1968",
-                          "Date of death": "21.06.2020"
+                          "Date of death": "21.06.2020",
+                          "Wife": "Annie"
                         },
                         "children": [
                           {
@@ -1828,7 +1837,8 @@
                       {
                         "name": "John Varghese (Moncy)",
                         "attributes": {
-                          "Date of birth": "24.06.1971"
+                          "Date of birth": "24.06.1971",
+                          "Wife": "Kunjumol"
                         },
                         "children": [
                           {
@@ -1850,7 +1860,8 @@
                       {
                         "name": "Asha Varghese",
                         "attributes": {
-                          "Date of birth": "10.02.1974"
+                          "Date of birth": "10.02.1974",
+                          "Husband": "Skaria Samuel (DoD-Unknown)"
                         },
                         "children": null
                       }
@@ -1859,7 +1870,8 @@
                   {
                     "name": "Saramma Chacko",
                     "attributes": {
-                      "Date of birth": "Unknown"
+                      "Date of birth": "Unknown",
+                      "Husband": "K.J. Chacko"
                     },
                     "children": null
                   },
@@ -1867,20 +1879,23 @@
                     "name": "M.C. John (Aachenkunju)",
                     "attributes": {
                       "Date of birth": "21.10.1940",
-                      "Date of death": "03.08.2009"
+                      "Date of death": "03.08.2009",
+                      "Wife": "Sally"
                     },
                     "children": [
                       {
                         "name": "Shino John",
                         "attributes": {
-                          "Date of birth": "14.02.1973"
+                          "Date of birth": "14.02.1973",
+                          "Husband": "Mathew Cherian"
                         },
                         "children": null
                       },
                       {
                         "name": "Jacob John (Sleeba)",
                         "attributes": {
-                          "Date of birth": "05.07.1978"
+                          "Date of birth": "05.07.1978",
+                          "Wife": "Nancy"
                         },
                         "children": [
                           {
@@ -1904,27 +1919,31 @@
                   {
                     "name": "M. C. Daniel",
                     "attributes": {
-                      "Date of birth": "1944"
+                      "Date of birth": "1944",
+                      "Wife": "Rosamma"
                     },
                     "children": [
                       {
                         "name": "Rubi Daniel",
                         "attributes": {
-                          "Date of birth": "1972"
+                          "Date of birth": "1972",
+                          "Husband": "Thomas"
                         },
                         "children": null
                       },
                       {
                         "name": "Betty Daniel",
                         "attributes": {
-                          "Date of birth": "1974"
+                          "Date of birth": "1974",
+                          "Husband": "Bovas"
                         },
                         "children": null
                       },
                       {
                         "name": "Jacob Daniel (Jaimon)",
                         "attributes": {
-                          "Date of birth": "1979"
+                          "Date of birth": "1979",
+                          "Wife": "Preetha"
                         },
                         "children": null
                       }
@@ -1934,20 +1953,23 @@
                     "name": "M.C. Cheriyan (Georgekutty)",
                     "attributes": {
                       "Date of birth": "1947",
-                      "Date of death": "14.10.1978"
+                      "Date of death": "14.10.1978",
+                      "Wife": "Gracy"
                     },
                     "children": [
                       {
                         "name": "Binu Cheriyan",
                         "attributes": {
-                          "Date of birth": "1974"
+                          "Date of birth": "1974",
+                          "Husband": "Aksa"
                         },
                         "children": null
                       },
                       {
                         "name": "Sunitha Cheriyan",
                         "attributes": {
-                          "Date of birth": "1978"
+                          "Date of birth": "1978",
+                          "Husband": "Toni"
                         },
                         "children": null
                       }
@@ -1957,7 +1979,8 @@
                     "name": "Eapen Chacko (Appachi)",
                     "attributes": {
                       "Date of birth": "1951",
-                      "Date of death": "05.05.2020"
+                      "Date of death": "05.05.2020",
+                      "Wife": "Leela"
                     },
                     "children": [
                       {
@@ -1970,7 +1993,8 @@
                       {
                         "name": "Chinnu Anna Eapen",
                         "attributes": {
-                          "Date of birth": "1986"
+                          "Date of birth": "1986",
+                          "Husband": "Jijo"
                         },
                         "children": null
                       }
@@ -2012,7 +2036,8 @@
                     "name": "Saramma Mathen(Thanken)",
                     "attributes": {
                       "Date Of Birth": "27.04.1936",
-                      "Date Of Death": "10.01.2007"
+                      "Date Of Death": "10.01.2007",
+                      "Husband": "Pathrose"
                     },
                     "children": null
                   },
@@ -2020,13 +2045,15 @@
                     "name": "M. M. Cheriyan (Babychen)",
                     "attributes": {
                       "Date Of Birth": "21.05.1938",
-                      "Date Of Death": "06.01.1997"
+                      "Date Of Death": "06.01.1997",
+                      "Wife": "Mariamma (Pennamma)"
                     },
                     "children": [
                       {
                         "name": "M. C. Mathew (Biju)",
                         "attributes": {
-                          "Date Of Birth": "25.04.1971"
+                          "Date Of Birth": "25.04.1971",
+                          "Wife": "Bessy"
                         },
                         "children": [
                           {
@@ -2048,14 +2075,16 @@
                       {
                         "name": "Beena Cheriyan",
                         "attributes": {
-                          "Date Of Birth": "26.08.1975"
+                          "Date Of Birth": "26.08.1975",
+                          "Husband": "Cherian"
                         },
                         "children": null
                       },
                       {
                         "name": "Reni Cheriyan",
                         "attributes": {
-                          "Date Of Birth": "18.04.1977"
+                          "Date Of Birth": "18.04.1977",
+                          "Husband": "Benny"
                         },
                         "children": null
                       }
@@ -2074,14 +2103,16 @@
                   {
                     "name": "Saramma Easow (Kunjumol)",
                     "attributes": {
-                      "Date Of Birth": "Unknown"
+                      "Date Of Birth": "Unknown",
+                      "Husband": "P.M. Samuel"
                     },
                     "children": null
                   },
                   {
                     "name": "Mariamma Easow (Lillen)",
                     "attributes": {
-                      "Date Of Birth": "Unknown"
+                      "Date Of Birth": "16.05.1939",
+                      "Husband": "V.M. Kurien"
                     },
                     "children": null
                   }
@@ -2098,13 +2129,15 @@
                   {
                     "name": "Abraham V. George (Babu)",
                     "attributes": {
-                      "Date Of Birth": "19.05.1943"
+                      "Date Of Birth": "19.05.1943",
+                      "Wife": "Amminikutty"
                     },
                     "children": [
                       {
                         "name": "George K. Varghese (Binu)",
                         "attributes": {
-                          "Date Of Birth": "26.09.1970"
+                          "Date Of Birth": "26.09.1970",
+                          "Wife": "Maelin"
                         },
                         "children": [
                           {
@@ -2119,7 +2152,8 @@
                       {
                         "name": "Annie George (Becky)",
                         "attributes": {
-                          "Date Of Birth": "24.07.1979"
+                          "Date Of Birth": "24.07.1979",
+                          "Husband": "Kurien Koshy (Moncy)"
                         },
                         "children": null
                       }
@@ -2128,13 +2162,15 @@
                   {
                     "name": "Abraham V. Mathew (Mohan)",
                     "attributes": {
-                      "Date Of Birth": "03.06.1948"
+                      "Date Of Birth": "03.06.1948",
+                      "Wife": "Santhamma"
                     },
                     "children": [
                       {
                         "name": "George Mathew (Madhu)",
                         "attributes": {
-                          "Date Of Birth": "24.10.1975"
+                          "Date Of Birth": "24.10.1975",
+                          "Wife": "Jaya"
                         },
                         "children": [
                           {
@@ -2156,7 +2192,8 @@
                       {
                         "name": "Annie Mathew (Roshini)",
                         "attributes": {
-                          "Date Of Birth": "14.04.1982"
+                          "Date Of Birth": "14.04.1982",
+                          "Husband": "Rosh"
                         },
                         "children": null
                       }

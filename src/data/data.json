@@ -2614,7 +2614,8 @@
                           {
                             "name": "Jijo J. Jacob",
                             "attributes": {
-                              "Date Of Birth": "07.02.1987"
+                              "Date Of Birth": "07.02.1987",
+                              "Wife": "Roslyn"
                             },
                             "children": [
                               {
@@ -2629,7 +2630,8 @@
                           {
                             "name": "Rinju J. Jacob",
                             "attributes": {
-                              "Date Of Birth": "08.04.1991"
+                              "Date Of Birth": "08.04.1991",
+                              "Wife": "Jain"
                             },
                             "children": [
                               {
@@ -2653,7 +2655,8 @@
                           {
                             "name": "Jijin J. Oommen",
                             "attributes": {
-                              "Date Of Birth": "31.12.1987"
+                              "Date Of Birth": "31.12.1987",
+                              "Wife": "Blessy"
                             },
                             "children": null
                           }

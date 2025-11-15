@@ -949,7 +949,8 @@
                 "name": "M. C. Aachiamma",
                 "attributes": {
                   "Date of Birth": "Unknown",
-                  "Date of death": "Unknown"
+                  "Date of death": "Unknown",
+                  "Husband": "Ninan Oommen (DoD-Unknown)"
                 },
                 "children": null
               },
@@ -957,7 +958,8 @@
                 "name": "M. C. Mathai (Kochumathai)",
                 "attributes": {
                   "Date of Birth": "1889",
-                  "Date of death": "27.08.1954"
+                  "Date of death": "27.08.1954",
+                  "Wife": "Sosamma (DoD-09.01.1992)"
                 },
                 "children": [
                   {
@@ -1574,7 +1576,8 @@
                     "name": "M. D. Kunjujuamma",
                     "attributes": {
                       "Date of birth": "Unknown",
-                      "Date of death": "Unknown"
+                      "Date of death": "Unknown",
+                      "Husband": "Unmarried"
                     },
                     "children": null
                   },
@@ -1582,20 +1585,24 @@
                     "name": "M. D. Cheriyan (Thampan)",
                     "attributes": {
                       "Date of birth": "Unknown",
-                      "Date of death": "19.03.1990"
+                      "Date of death": "19.03.1990",
+                      "Wife": "P.C. Mariamma (DoD-20.03.2008)"
                     },
                     "children": [
                       {
                         "name": "Beena Cheriyan",
                         "attributes": {
-                          "Date of birth": "Unknown"
+                          "Date of birth": "Unknown",
+                          "Husband": "T.M. Joseph (Thampan)",
+                          "DoD": "Unknown"
                         },
                         "children": null
                       },
                       {
                         "name": "Byju Cheriyan",
                         "attributes": {
-                          "Date of birth": "25.05.1960"
+                          "Date of birth": "25.05.1960",
+                          "Wife": "Anitha Varghese"
                         },
                         "children": [
                           {
@@ -1617,7 +1624,8 @@
                       {
                         "name": "Bindhu Cheriyan",
                         "attributes": {
-                          "Date of birth": "Unknown"
+                          "Date of birth": "Unknown",
+                          "Husband": "Jacob Tharakan"
                         },
                         "children": null
                       }
@@ -1627,20 +1635,23 @@
                     "name": "M. D. Abraham",
                     "attributes": {
                       "Date of birth": "21.08.1931",
-                      "Date of death": "07.08.1997"
+                      "Date of death": "07.08.1997",
+                      "Wife": "Mariamma (DoD-24.01.1993)"
                     },
                     "children": [
                       {
                         "name": "Usha Abraham",
                         "attributes": {
-                          "Date of birth": "13.03.1960"
+                          "Date of birth": "13.03.1960",
+                          "Husband": "Issac (Lal)"
                         },
                         "children": null
                       },
                       {
                         "name": "Shibu Abraham",
                         "attributes": {
-                          "Date of birth": "23.05.1961"
+                          "Date of birth": "23.05.1961",
+                          "Wife": "Jayasree (Muthu)"
                         },
                         "children": [
                           {
@@ -1678,14 +1689,16 @@
                       {
                         "name": "Sheeba Abraham",
                         "attributes": {
-                          "Date of birth": "17.03.1964"
+                          "Date of birth": "17.03.1964",
+                          "Husband": "Varghese (Saji)"
                         },
                         "children": null
                       },
                       {
                         "name": "Shaji Abraham",
                         "attributes": {
-                          "Date of birth": "20.01.1967"
+                          "Date of birth": "20.01.1967",
+                          "Wife": "Beena"
                         },
                         "children": [
                           {
@@ -1707,7 +1720,8 @@
                       {
                         "name": "Biju Abraham",
                         "attributes": {
-                          "Date of birth": "09.04.1972"
+                          "Date of birth": "09.04.1972",
+                          "Wife": "Subi"
                         },
                         "children": null
                       }
@@ -1716,14 +1730,18 @@
                   {
                     "name": "M. D. Sosamma",
                     "attributes": {
-                      "Date of birth": "16.04.1934"
+                      "Date of birth": "16.04.1934",
+                      "DoD": "15.07.2022",
+                      "Husband": "N.K. Philipose"
                     },
                     "children": null
                   },
                   {
                     "name": "M. D. Varghese (Aachenkunju)",
                     "attributes": {
-                      "Date of birth": "28.03.1937"
+                      "Date of birth": "28.03.1937",
+                      "DoD": "15.12.2024",
+                      "Wife": "Mariamma (Ammukutty)"
                     },
                     "children": [
                       {
@@ -1752,7 +1770,8 @@
                   {
                     "name": "M. D. Gracy",
                     "attributes": {
-                      "Date of birth": "18.04.1941"
+                      "Date of birth": "18.04.1941",
+                      "Husband": "K.M. Cherian (Baby)"
                     },
                     "children": null
                   }

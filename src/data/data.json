@@ -1236,21 +1236,25 @@
                       {
                         "name": "Annie Cheriyan",
                         "attributes": {
-                          "Date of Birth": "05.04.1956"
+                          "Date of Birth": "05.04.1956",
+                          "Husband": "Abraham Philip (DoD-28.02.2024)"
                         },
                         "children": null
                       },
                       {
                         "name": "Susan Cheriyan",
                         "attributes": {
-                          "Date of Birth": "31.01.1958"
+                          "Date of Birth": "31.01.1958",
+                          "Husband": "Joseph John (Sunny)",
+                          "DoD": "Unknow2n"
                         },
                         "children": null
                       },
                       {
                         "name": "Regi Cheriyan",
                         "attributes": {
-                          "Date of Birth": "07.01.1961"
+                          "Date of Birth": "07.01.1961",
+                          "Wife": "Baiju Thomas"
                         },
                         "children": [
                           {
@@ -1272,7 +1276,8 @@
                       {
                         "name": "Saji Cheriyan",
                         "attributes": {
-                          "Date of Birth": "08.01.1965"
+                          "Date of Birth": "08.01.1965",
+                          "Wife": "Sara Thomas (Renu)"
                         },
                         "children": [
                           {
@@ -1294,7 +1299,8 @@
                       {
                         "name": "Jiji Cheriyan",
                         "attributes": {
-                          "Date of Birth": "12.01.1967"
+                          "Date of Birth": "12.01.1967",
+                          "Husband": "Samji"
                         },
                         "children": null
                       }
@@ -1311,7 +1317,8 @@
                       {
                         "name": "M. V. Varghese (Monachen)",
                         "attributes": {
-                          "Date of Birth": "1963"
+                          "Date of Birth": "1963",
+                          "Wife": "Aleyamma (Ammal)"
                         },
                         "children": [
                           {
@@ -1326,14 +1333,16 @@
                       {
                         "name": "Sally Varghese",
                         "attributes": {
-                          "Date of Birth": "Unknown"
+                          "Date of Birth": "Unknown",
+                          "Husband": "Joemon"
                         },
                         "children": null
                       },
                       {
                         "name": "Joseph Varghese (Kochumon)",
                         "attributes": {
-                          "Date of Birth": "Unknown"
+                          "Date of Birth": "Unknown",
+                          "Wife": "Aleyamma (Kunjumol)"
                         },
                         "children": [
                           {
@@ -1366,21 +1375,24 @@
                         "name": "Cheriyan Varghese",
                         "attributes": {
                           "Date of birth": "1971",
-                          "Date of death": "25.03.1995"
+                          "Date of death": "25.03.1995",
+                          "Wife": "Unmarried"
                         },
                         "children": null
                       },
                       {
                         "name": "Suja Mary Varghese",
                         "attributes": {
-                          "Date of birth": "Unknown"
+                          "Date of birth": "Unknown",
+                          "Husband": "E.T. Varghese (Monachen)"
                         },
                         "children": null
                       },
                       {
                         "name": "Saji M. Varghese",
                         "attributes": {
-                          "Date of birth": "30.03.1975"
+                          "Date of birth": "30.03.1975",
+                          "Wife": "Julie"
                         },
                         "children": [
                           {
@@ -1412,7 +1424,8 @@
                       {
                         "name": "Bejoy Daniel (joemon)",
                         "attributes": {
-                          "Date of birth": "05.05.1973"
+                          "Date of birth": "05.05.1973",
+                          "Wife": "Suni"
                         },
                         "children": [
                           {
@@ -1434,7 +1447,8 @@
                       {
                         "name": "Vinod Daniel (johnson)",
                         "attributes": {
-                          "Date of birth": "07.10.1975"
+                          "Date of birth": "07.10.1975",
+                          "Wife": "Sally (Baby)"
                         },
                         "children": [
                           {
@@ -1456,7 +1470,8 @@
                       {
                         "name": "Binu Daniel (Joji)",
                         "attributes": {
-                          "Date of birth": "01.01.1982"
+                          "Date of birth": "01.01.1982",
+                          "Husband": "Bibi"
                         },
                         "children": [
                           {
@@ -1478,9 +1493,10 @@
                     },
                     "children": [
                       {
-                        "name": "Shiju Chacko (Monai)",
+                        "name": "Shyju Chacko (Monai)",
                         "attributes": {
-                          "Date of birth": "08.09.1975"
+                          "Date of birth": "08.09.1975",
+                          "Wife": "Susan (Joemol)"
                         },
                         "children": [
                           {

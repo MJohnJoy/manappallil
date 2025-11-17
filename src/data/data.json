@@ -1260,7 +1260,8 @@
                           {
                             "name": "Prabhu Regi Cheriyan",
                             "attributes": {
-                              "Date of Birth": "02.02.1992"
+                              "Date of Birth": "02.02.1992",
+                              "Wife": "Taneesha"
                             },
                             "children": null
                           },
@@ -4133,7 +4134,8 @@
                 "name": "M. M. Ruth (Thankamma)",
                 "attributes": {
                   "Date Of Birth": "Unknown",
-                  "Date Of Death": "Unknown"
+                  "Date Of Death": "Unknown",
+                  "Husband": "Unmarried"
                 },
                 "children": null
               },
@@ -4141,7 +4143,8 @@
                 "name": "M. M. Annamma",
                 "attributes": {
                   "Date Of Birth": "Unknown",
-                  "Date Of Death": "Unknown"
+                  "Date Of Death": "Unknown",
+                  "Husband": "V.C. Tharakan (DoD-Unknown)"
                 },
                 "children": null
               },
@@ -4149,7 +4152,8 @@
                 "name": "M. M. Mariamma",
                 "attributes": {
                   "Date Of Birth": "Unknown",
-                  "Date Of Death": "Unknown"
+                  "Date Of Death": "Unknown",
+                  "Husband": "Unmarried"
                 },
                 "children": null
               },
@@ -4157,20 +4161,23 @@
                 "name": "M. M. George (Georgekutty)",
                 "attributes": {
                   "Date Of Birth": "Unknown",
-                  "Date Of Death": "Unknown"
+                  "Date Of Death": "Unknown",
+                  "Wife": "Thankamma (DoD-Unknown)"
                 },
                 "children": [
                   {
                     "name": "Leelamma George",
                     "attributes": {
-                      "Date Of Birth": "Unknown"
+                      "Date Of Birth": "Unknown",
+                      "Husband": "Thomas"
                     },
                     "children": null
                   },
                   {
                     "name": "Rajan George",
                     "attributes": {
-                      "Date Of Birth": "Unknown"
+                      "Date Of Birth": "Unknown",
+                      "Wife": "Saramma"
                     },
                     "children": [
                       {
@@ -4192,14 +4199,16 @@
                   {
                     "name": "Susheela George",
                     "attributes": {
-                      "Date Of Birth": "Unknown"
+                      "Date Of Birth": "Unknown",
+                      "Husband": "Thomas K Thomas"
                     },
                     "children": null
                   },
                   {
                     "name": "Jacob George (Joy)",
                     "attributes": {
-                      "Date Of Birth": "Unknown"
+                      "Date Of Birth": "Unknown",
+                      "Wife": "Mary (DoD-Unknown)"
                     },
                     "children": [
                       {
@@ -4217,20 +4226,26 @@
                 "name": "T. M. Mathai (Kunjukunju)",
                 "attributes": {
                   "Date Of Birth": "23.03.1913",
-                  "Date Of Death": "01.08.1997"
+                  "Date Of Death": "01.08.1997",
+                  "Wife": "Mariam Markose",
+                  "DoD": "25.05.1993"
                 },
                 "children": [
                   {
                     "name": "Rachel Mathai (Sarojam)",
                     "attributes": {
-                      "Date Of Birth": "12.07.1937"
+                      "Date Of Birth": "12.07.1937",
+                      "DoD": "28.06.2024",
+                      "Husband": "C. George"
                     },
                     "children": null
                   },
                   {
                     "name": "M. Mathew (Babu)",
                     "attributes": {
-                      "Date Of Birth": "12.07.1937"
+                      "Date Of Birth": "12.07.1937",
+                      "DoD": "22.10.2022",
+                      "Wife": "Nancy Varghese"
                     },
                     "children": [
                       {
@@ -4268,7 +4283,8 @@
                     "name": "M. Marcos Mathai (Thampi)",
                     "attributes": {
                       "Date Of Birth": "16.05.1944",
-                      "Date Of Death": "18.04.2009"
+                      "Date Of Death": "18.04.2009",
+                      "Wife": "Mariam (Kiran)"
                     },
                     "children": [
                       {
@@ -4283,7 +4299,9 @@
                   {
                     "name": "George Mathai (Ani)",
                     "attributes": {
-                      "Date Of Birth": "11.02.1947"
+                      "Date Of Birth": "11.02.1947",
+                      "DoD": "22.06.2022",
+                      "Wife": "Mony Alexander"
                     },
                     "children": [
                       {
@@ -4305,14 +4323,17 @@
                   {
                     "name": "Mini Mathai",
                     "attributes": {
-                      "Date Of Birth": "05.06.1950"
+                      "Date Of Birth": "05.06.1950",
+                      "Husband": "K.C. George"
                     },
                     "children": null
                   },
                   {
                     "name": "Sheela Mathai",
                     "attributes": {
-                      "Date Of Birth": "25.11.1957"
+                      "Date Of Birth": "25.11.1957",
+                      "Husband": "K.P. Pothen",
+                      "DoD": "09.05.2002"
                     },
                     "children": null
                   }
@@ -4322,7 +4343,9 @@
                 "name": "M. M. Aleyamma (Baby)",
                 "attributes": {
                   "Date Of Birth": "1916",
-                  "Date Of Death": "02.07.1999"
+                  "Date Of Death": "02.07.1999",
+                  "Husband": "Chandapilla Panicker",
+                  "DoD": "Unknown"
                 },
                 "children": null
               }

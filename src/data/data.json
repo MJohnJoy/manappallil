@@ -3,7 +3,8 @@
     "name": "Cheriyan Alintethekkathil Pandalam",
     "attributes": {
       "Date Of Birth": "Unknown",
-      "Date Of Death": "Unknown"
+      "Date Of Death": "Unknown",
+      "Wife": "Unknown"
     },
     "children": [
       {
@@ -11,7 +12,7 @@
         "attributes": {
           "Date Of Birth": "Unknown",
           "Date Of Death": "Unknown",
-          "Wife": "Late Kochitamma"
+          "Wife": "Kochitamma (DoD-Unknown)"
         },
         "children": [
           {
@@ -19,7 +20,7 @@
             "attributes": {
               "Date Of Birth": "Unknown",
               "Date Of Death": "Unknown",
-              "Wife": "Late Annamma"
+              "Wife": "Annamma (DoD-Unknown)"
             },
             "children": [
               {
@@ -724,7 +725,7 @@
                 "attributes": {
                   "Date of Birth": "Unknown",
                   "Date of death": "Unknown",
-                  "Husband": "Skariah"
+                  "Husband": "Skariah (DoD-Unknown)"
                 },
                 "children": null
               },
@@ -942,7 +943,7 @@
                 "attributes": {
                   "Date of Birth": "1892",
                   "Date of death": "21.09.1943",
-                  "Husband": "Avira Varghese (died on 01.12.1983)"
+                  "Husband": "Avira Varghese (DoD- 01.12.1983)"
                 },
                 "children": null
               },
@@ -4130,7 +4131,7 @@
               "Date Of Birth": "Unknown",
               "Date Of Death": "30.08.1943",
               "Wife": "Rahelamma",
-              "Died on": "29.10.1963"
+              "DoD": "29.10.1963"
             },
             "children": [
               {
@@ -4366,7 +4367,7 @@
               "Date Of Birth": "1883",
               "Date Of Death": "19.01.1960",
               "Wife": "Mariamma",
-              "Died": "07.02.1971"
+              "DoD": "07.02.1971"
             },
             "children": [
               {
@@ -4515,7 +4516,7 @@
               "Date Of Birth": "1889",
               "Date Of Death": "12.06.1965",
               "Wife": "Kuttiyamma",
-              "Died": "08.10.1975"
+              "DoD": "08.10.1975"
             },
             "children": [
               {
@@ -4667,7 +4668,7 @@
         "attributes": {
           "Date Of Birth": "Unknown",
           "Date Of Death": "Unknown",
-          "Wife": "Late Mariamma"
+          "Wife": "Mariamma (DoD-Unknown)"
         },
         "children": [
           {

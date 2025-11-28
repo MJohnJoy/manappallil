@@ -3178,7 +3178,8 @@
                     "name": "K. M. Aliayamma (Kunjujuamma)",
                     "attributes": {
                       "Date Of Birth": "Unknown",
-                      "Husband": "Mathews Abraham"
+                      "Husband": "Mathews Abraham",
+                      "DoD": "07.01.2022"
                     },
                     "children": null
                   },
@@ -3186,7 +3187,8 @@
                     "name": "K. M. Varghese (Raju)",
                     "attributes": {
                       "Date Of Birth": "18.09.1940",
-                      "Wife": "Mariamma (Ammu)"
+                      "Wife": "Mariamma (Ammu)",
+                      "DoD": "26.11.2025"
                     },
                     "children": [
                       {
